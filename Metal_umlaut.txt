@@ -6,7 +6,7 @@ The original use appears to have been by the [[Blue Öyster Cult]] in [[1971]]. 
 
 [[Queensrÿche]] went further by putting the umlaut over the 'y' in their name. (The "ÿ" is otherwise only used in [[French language|French]]. It is sometimes used in [[Dutch language|Dutch]] to display the [[Dutch Y]] instead of IJ/ij when the real &#306;/&#307; letters are unavailable.) From a linguistic viewpoint, this might be regarded as an attempt at a diaeresis, rather than as an umlaut, were it not for the fact that there are no vowels to be pronounced distinctly.
 
-Spoof band [[Spinal Tap]] parodied the idea still further by putting the umlaut over the letter 'n'.  The n-umlaut/n-diaeresis character does not occur in any known language or belong to any standard character set, and therefore this is impossible to pronounce.  Displayed in [[Unicode]], the band name appears as "Spin&#776;al Tap;" however, as some browsers may not be able to view the proper Unicode character, here is how it appears as [[LaTeX]]: <math>Spi\ddot{n}al Tap</math>. 
+Spoof band [[Spinal Tap]] parodied the idea still further by putting the umlaut over the letter 'n'.  The n-umlaut/n-diaeresis character does not occur in any known language or belong to any standard character set, and therefore this is impossible to pronounce.  Displayed in [[Unicode]], the band name appears as "Spin&#776;al Tap;" however, as some browsers may not be able to view the proper Unicode character, here is how it appears as [[LaTeX]]: <math>Spi\ddot{n}al  \; Tap</math>. 
 
 [[Hawkwind]]-influenced [[1980s]] [[space-rock]] band [[Underground Zerø]] used a variation on the concept, using the Scandinavian vowel [[ø]] in their name.
 
