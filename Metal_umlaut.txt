@@ -1,24 +1,26 @@
 [[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to the cover of Mot&ouml;rhead's first album for &aelig;sthetic reasons.]]
 
-A '''heavy metal umlaut''' is an [[umlaut]] or a [[diaeresis]] (though always called an ''umlaut'' in this usage) over some of the letters in the name of a [[heavy metal music|heavy metal]] band &mdash; almost always without regard for the actual [[pronunciation]] of the name.
+A '''heavy metal umlaut''' is an [[umlaut]] or a [[diaeresis]] (though always called an ''umlaut'' in this usage) over some of the letters in the name of a [[heavy metal music|heavy metal]] band &mdash; without regard for the actual [[pronunciation]] of the name.
 
-Umlauts are often used in concert with a [[Blackletter]] or  pseudo-Blackletter [[typeface]] in the band logo to give it a more [[gothic]] feel. Many bands have taken to using umlauts and other [[diacritic]]s, often gratuitously, in their names.
+Umlauts are often used in concert with a [[Blackletter]] or  pseudo-Blackletter [[typeface]] in the band logo to give it a more [[Richard Wagner|Wagner]]ian feel. Many bands have taken to using umlauts and other [[diacritic]]s, often gratuitously, in their names.
+
+''Spin'' magazine referred to the heavy metal umlaut as ''"the diacritical mark of the beast."'' As David St. Hubbins ([[Michael McKean]]) of [[Spinal Tap]] put it: ''"It's like a pair of eyes. You're looking at the umlaut, and it's looking at you."''
 
 ==History==
 
 The [[progressive rock]] band [[Amon Düül]] released their first album in [[1969]]. However, their name came from ''"Amon being an Egyptian sun god, [[Düül]] a character from Turkish fiction"'' [http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70406050306300345&sql=B1c8j1vsjzzza], so this use of diaereses was not gratuitous.
 
-The first ''gratuitous'' use appears to have been by the [[Blue Öyster Cult]] in [[1971]]. [[Mot&ouml;rhead]] and [[Mötley Crüe]] then followed.
+The first ''gratuitous'' use appears to have been by the [[Blue Öyster Cult]] in [[1970]]. Rock critic [[Richard Meltzer]] claims to have suggested it to their manager [[Sandy Pearlman]]: ''"I said, 'How about an umlaut over the O? Metal had a Wagnerian aspect anyway."''
 
-The umlaut in "Mot&ouml;rhead" was in fact a creation of the graphic designer responsible for the first album cover. The usage stuck.
+[[Mot&ouml;rhead]] and [[Mötley Crüe]] then followed. The umlaut in "Mot&ouml;rhead" was in fact a creation of the graphic designer responsible for the first album cover, because ''"it looks mean."'' The usage stuck.
 
 [[Image:Spinal Tap logo.jpg|thumb|150px|right|[[Spinal Tap]] used the umlaut in an unexpected place &mdash; above a consonant.]]
 
-[[Queensrÿche]] went further by putting the umlaut over the "y" in their name.  (It is sometimes used in [[Dutch language|Dutch]] to display the [[Dutch Y]] instead of IJ/ij when the real letters "&#306;" and "&#307;" are unavailable.) From a linguistic viewpoint, this might be regarded as an attempt at a diaeresis, rather than as an umlaut, were it not that there are no vowels to be pronounced distinctly.
+[[Queensrÿche]] went further by putting the umlaut over the "y" in their name.  (It is sometimes used in [[Dutch language|Dutch]] to display the [[Dutch Y]] instead of IJ/ij when the real letters "&#306;" and "&#307;" are unavailable.) From a linguistic viewpoint, this might be regarded as an attempt at a diaeresis, rather than as an umlaut, were it not that there are no vowels to be pronounced distinctly. Frontman [[Geoff Tate]] said, ''"We spent eleven years trying to explain how to pronounce it."''
 
 [[Hawkwind]]-influenced [[1980s]] [[space-rock]] band [[Underground Zerø]] used a variation on the concept, using the Scandinavian vowel [[ø]] in their name.
 
-The [[spoof]] band [[Spinal Tap]] raised the stakes in [[1982]] by using an umlaut over the letter "n" (<math> \mathbf{\ddot{n}}</math>), a [[consonant]]. Obscurely, this is a construction only found in the [[Jacaltec]] language of [[Guatemala]].
+The [[spoof]] band Spinal Tap raised the stakes in [[1982]] by using an umlaut over the letter "n" (<math> \mathbf{\ddot{n}}</math>), a [[consonant]]. Obscurely, this is a construction only found in the [[Jacaltec]] language of [[Guatemala]]. St. Hubbins stated: ''"[[René Magritte|Ceci n'est pas un umlaut]]."''
 
 ==The heavy metal umlaut in popular literature==
 
@@ -32,9 +34,10 @@ In 1997, [[parody]] newspaper [[The Onion]] published an article called ''Ünite
 
 ==Other musical usages of gratuitous diacritics==
 
-* the band [[Assück]].
-* the Australian [[thrash metal|black/thrash metal]] band [[Deströyer 666]]
+* the [[Florida]] [[grindcore]] band [[Assück]].
+* the [[Music of Australia|Australia]]n [[thrash metal|black/thrash metal]] band [[Deströyer 666]]
 * the German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with a (double dot) diaeresis. This can be represented in Unicode: Die A&#8411;rzte.
+* [[D&uuml;rty Nelly's Pub]], a rock bar in [[Charlottesville, Virginia]].
 * the [[punk rock]] band [[Hüsker Dü]]. The name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''.
 * the [[rock en espanol|Spanish band]] [[Mägo de Oz]].
@@ -50,8 +53,9 @@ In 1997, [[parody]] newspaper [[The Onion]] published an article called ''Ünite
 *[[Language game]]
 
 ==External links==
+*[http://www.spiraling.com/words/umlaut.html Hell Holes: Spinal Tap's main man explains the importance of the umlaut] (Lisa Gidley, ''CMJ'')
 * ''[http://www.chron.com/cs/CDA/story.hts/ae/books/ch1/1416123 My Life in Heavy Metal]'' by Steve Almond
-* http://www.rockdots.com/thedots.html
+* [http://www.rockdots.com/thedots.html The D&ouml;ts] (Dave Krinsky)
 
 {{heavymetal}}
 
