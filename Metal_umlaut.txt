@@ -1,25 +1,34 @@
 [[Image:Motorhead.jpg|thumb|Motorhead first album sleeve]]
 
-A '''heavy metal umlaut''' is an [[umlaut]] (not to be confused with a  [[diaeresis]], the name given to the same symbol when used on the second of two vowels to show that both are pronounced) over some of the letters in the names of a [[heavy metal music|heavy metal]] band &mdash; although the names will then sound very silly to people who use languages in which umlauts are common, like speakers of German, Turkish and Scandinavian languages. The use of umlauts is often in concert with using [[Blackletter]] types (or more often Pseudo-Blackletter) in band logos, to give it a more gothic feel.
+A '''heavy metal umlaut''' is an [[umlaut]] (not to be confused with a  [[diaeresis]], the name given to the same symbol when used on the second of two vowels to show that both are pronounced) over some of the letters in the names of a [[heavy metal music|heavy metal]] band &mdash; although the names will then sound very silly to people who use languages in which umlauts are common, like speakers of German, Turkish and Scandinavian languages.
 
-The novel ''[[Zodiac (book)|Zodiac]]'' (1988) by [[Neal Stephenson]] features a fictional band called P&ouml;yzen B&ouml;yzen, who another character describes as ''"pretty good for a two-umlaut band."'' The names of bands such as [[Motörhead]], [[Mötley Crüe]] and the [[Blue Öyster Cult]] led to [[journalist]] and [[author]] [[Steve Almond]] coining the term "[[spandex]] and umlaut circuit" in [[2002]] to describe the heavy metal touring scene.
+The use of umlauts is often in concert with using [[Blackletter]] type (or more often Pseudo-Blackletter) in the band logo, to give it a more [[gothic]] feel. Many bands have taken to using [[diacritic]]s, often gratuitously, in their names.
+
+==History==
 
 The original use appears to have been by the [[Blue Öyster Cult]] in [[1971]]. [[Motörhead]] and [[Mötley Crüe]] then followed.
 
-(The first part (Mötley) of the name Mötley Crüe is commonly pronounced as it would be a Finnish word in Finland. Nevertheless, "crüe" is pronounced like an Englishman would pronounce it.)
+(The first part [Mötley] of the name Mötley Crüe is commonly pronounced as it would be a Finnish word in Finland. Nevertheless, "crüe" is pronounced like an Englishman would pronounce it.)
 
 [[Queensrÿche]] went further by putting the umlaut over the "y" in their name.  (It is sometimes used in [[Dutch language|Dutch]] to display the [[Dutch Y]] instead of IJ/ij when the real &#306;/&#307; letters are unavailable.) From a linguistic viewpoint, this might be regarded as an attempt at a diaeresis, rather than as an umlaut, were it not for the fact that there are no vowels to be pronounced distinctly.
 
-<div class="floatright"><math> \mathbf{Spi\ddot{n}al \; Tap}</math></div> 
-Spoof band [[Spinal Tap]] parodied the idea still further by putting the umlaut over the letter "n".  The n-umlaut/n-diaeresis character does not occur in any known language or belong to any standard character set, and this does not represent any conventional correspondence between spelling and pronunciation.   
-
 [[Hawkwind]]-influenced [[1980s]] [[space-rock]] band [[Underground Zerø]] used a variation on the concept, using the Scandinavian vowel [[ø]] in their name.
+
+<div class="floatright"><math> \mathbf{Spi\ddot{n}al \; Tap}</math></div> 
+Spoof band [[Spinal Tap]] parodied the idea still further in 1982 by putting the umlaut over the letter "n".  The n-umlaut/n-diaeresis character does not occur in any known language or belong to any standard character set, and this does not represent any conventional correspondence between spelling and pronunciation.   
+
+==The heavy metal umlaut in popular literature==
 
 In the mid-1980s, cartoonist Berke Breathed parodied this practice further in the [[Bloom County]] comic strip with the fictional group Deathtöngue, fronted by the depraved and unwholesome singer/'lead tongue' [[Bill the Cat|"Wild" Bill Catt]] and infamous for the songs "Let's Run Over Lionel Richie With a Tank" and "U Stink But I Love U".  In the comic strip, Breathed eventually has Deathtöngue change their name to the umlaut-free [[Billy and the Boingers]] following pressure from congressional hearings on porn rock led by one "Tippy Gorp", an obvious reference to heavy metal bête noire [[Tipper Gore]] and the [[PMRC]].
 
+The novel ''[[Zodiac (book)|Zodiac]]'' (1988) by [[Neal Stephenson]] features a fictional band called P&ouml;yzen B&ouml;yzen, who another character describes as ''"pretty good for a two-umlaut band."''
+
 In 1997, the [[parody]] newspaper, [[The Onion]], published an article entitled "Ünited Stätes Toughens Image With Umlauts," about a [[United States Congress|congressional]] attempt to add umlauts to the name of the [[United States|United States of America]] to make it seem tougher to the rest of the world.
 
-Other umlaut sightings:
+[[Journalist]] and [[author]] [[Steve Almond]] coined the term "[[spandex]] and umlaut circuit" in [[2002]] to describe the heavy metal touring scene.
+
+==Other musical usages of diacritics==
+
 * the Finnish punk hardcore band Ümlaut
 * the name of the band [[Assück]]
 * the [[punk rock]] band [[Hüsker Dü]] (the name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
@@ -30,7 +39,6 @@ Other umlaut sightings:
 * the German punk band [[Die Ärzte]] used three dots (triaresis?) over the "A" in ''Ärzte''. This can be represented in Unicode: Die A&#8411;rzte.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles ("Mekanïk Destruktïw Kommandöh" or "Köhntarkösz" for instance)
 * the accents in the name of the French electronica band [[Rinôçérôse]] are also gratuitous
- 
 
 ==See also==
 
