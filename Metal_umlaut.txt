@@ -39,4 +39,4 @@ Other umlaut sightings:
 * ''[http://www.chron.com/cs/CDA/story.hts/ae/books/ch1/1416123 My Life in Heavy Metal]'' by Steve Almond
 * http://www.rockdots.com/thedots.html
 
-{{msg:heavymetal}}
+{{heavymetal}}
