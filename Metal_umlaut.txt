@@ -1,1 +1,112 @@
+:''Note: some of the accented letters used in this article may not display properly in all [[font]]s.''
 
+A '''heavy metal umlaut''' is an [[umlaut]] over a letter in the name of a [[heavy metal music|heavy metal]] band. Umlauts and other [[diacritic]]s with a [[blackletter]] style [[typeface]] are a form of [[foreign branding]] intended to give a band's logo a [[Germanic]] "toughness".<!-- Find a ref other than the neologism in the ext links, it's the only source: They are also called '''röckdöts'''.-->  The heavy metal umlaut is never referred to by the term ''[[diaeresis]]'' in this usage, nor does it affect the pronunciation of the band's name.  
+
+Heavy metal umlauts have been parodied in film and fiction. David St. Hubbins ([[Michael McKean]]) in the film ''[[Spinal Tap|This Is Spinal Tap]]'' opined, "It's like a pair of eyes. You're looking at the umlaut, and it's looking at you." In [[2002]]<!-- we're still not sure what exact issue - FIXME -->, ''[[Spin magazine]]'' referred to the heavy metal umlaut as "the diacritical mark of the beast".
+
+[[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to the cover of Mot&ouml;rhead's first album for &aelig;sthetic reasons.]]
+
+==Umlauts and diaereses==
+
+The German word ''Umlaut'' means roughly ''sound change'', being composed of ''um-'' (a prefix often used with verbs involving "change") and ''Laut'', meaning "sound".  Adding an umlaut indeed changes the pronunciation of a [[vowel]] in standard (non-Heavy-Metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do  ''o'' vs. ''ö'' and ''a'' vs. ''ä''.  
+Umlauts are used in several languages, such as [[Icelandic language|Icelandic]], [[German language|German]], [[Swedish language|Swedish]], [[Finnish language|Finnish]], [[Hungarian language|Hungarian]], and [[Turkish language|Turkish]].  A graphically similar character, the [[diaresis]], is used in languages such as [[French language|French]] and [[Portuguese language|Portuguese]]; the sounds represented by the umlauted letters in these languages are typically [[Front_vowel|''front vowels'']] (front [[Vowel_roundedness|rounded vowels]] in the case of ''ü'' and ''ö''). Ironically, these sounds tend to be perceived as  "weaker" or "lighter" than the vowels represented by un-umlautted "u", "o", and "a", thus failing to create the intended impression of strength and darkness.
+  
+The English word ''diaeresis'' comes from a Greek word meaning "divide or distinguish".  It is usually used to indicate that two [[vowel]]s are to be pronounced separately, as in the name "Chloë" or the words "naïve" or "coöperation".
+
+==History==
+The [[progressive rock]] band [[Amon Düül]] released their first album in [[1969]]. However, their name came from "[[Ammon|Amon]]  an Egyptian sun god and [[Düül]] a character from Turkish fiction" [http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70406050306300345&sql=B1c8j1vsjzzza], so this use of diaereses was not gratuitous.
+
+The first ''gratuitous'' use appears to have been by the [[Blue Öyster Cult]] in [[1970]]. The band's website states it was added by guitarist and keyboardist [[Allen Lanier]] [http://www.blueoystercult.com/History/history3.html], but rock critic [[Richard Meltzer]] claims to have suggested it to their producer and manager [[Sandy Pearlman]] just after Pearlman came up with the name: "I said, 'How about an umlaut over the O?' Metal had a [[Richard Wagner|Wagnerian]] aspect anyway." [http://www.spiraling.com/words/umlaut.html]
+
+[[Hawkwind]] on their second album ''[[In Search of Space]]'' (1971) wrote on the backside of the cover: "{{unicode|TECHNICIÄNS ÖF SPÅCE SHIP EÅRTH THIS IS YÖÜR CÄPTÅIN SPEÄKING YÖÜR ØÅPTÅIN IS DEA&#x030B;D}}". To add to the variation, the diacritical mark on the last "{{unicode|A&#x030B;}}" is the "Hungarian umlaut" or [[double acute accent]] ({{unicode|&#x2dd;}})&mdash;two short lines slanting up and to the right rather like a right double-quote mark&mdash;instead of dots. This was before Lemmy, later of Motörhead, had become a member of the group.
+
+[[Motörhead]] and [[Mötley Crüe]] then followed. The umlaut in ''Motörhead'' was in fact a creation of the graphic designer responsible for the first album cover, because "it looks mean"; the usage stuck. In the words of [[Lemmy Kilmister]], Motörhead's front man: ''I only put it in there to look mean.''. [http://www.thewavemag.com/pagegen.php?pagename=article&articleid=21891] (Interestingly, the standard German pronunciation of  "mot&ouml;r" is similar to the standard English pronunciation of "motor", the umlaut over the second "o" requiring, in German, the fronting of the vowel.)
+At one [[Mötley Crüe]] performance in Germany, the entire audience started chanting, "Moertley Crueh!"
+
+[[Image:Spinal Tap logo.jpg|thumb|150px|right|[[Spinal Tap|Spinal Tap]] used the umlaut in an unexpected place &mdash; above a consonant.]]
+
+[[Queensrÿche]] went further by putting the umlaut over the ''Y'' in their name.  (The symbol ''ÿ'' is sometimes used in [[Dutch language|Dutch]] handwriting to display the [[IJ (letter)|letter IJ]] instead of IJ/ij, and, very rarely, in [[French language|French]], ''e.g.'', in the placename L'Haÿ-les-Roses [http://fr.wikipedia.org/wiki/L%27Ha%C3%BF-les-Roses].)  [[Queensr&yuml;che]] frontman [[Geoff Tate]] stated, "The umlaut over the 'y' has haunted us for years. We spent eleven years trying to explain how to pronounce it."[http://www.spiraling.com/words/umlaut.html]
+
+[[Hawkwind]]-influenced [[1980s]] [[space-rock]] band [[Underground Zerø]] used a variation on the concept, using the [[Scandinavian language|Scandinavian]] vowel ''[[ø]]'' in their name. This may have been inspired by [[computer system]]s of the time, many of which used the [[slashed zero]] as a glyph for the digit [[0 (number)|0]] to distinguish it from the letter [[O]] and thus resembled ''ø''.
+
+The [[spoof]] band [[Spinal Tap|Spinal Tap]] raised the stakes in [[1982]] by using an umlaut over the letter ''N'', a [[consonant]]. This is a construction only found in the [[Jacaltec]] language of [[Guatemala]], although it is unlikely that the writers of ''This Is Spinal Tap'' knew this at the time.
+
+==The heavy metal umlaut in popular literature==
+
+In the mid-1980s, cartoonist [[Berkeley Breathed]] parodied the heavy metal umlaut in the comic strip [[Bloom County]] with the fictional group [[Deathtöngue]], fronted by the depraved and unwholesome singer/'lead tongue' [[Bill the Cat|"Wild" Bill Catt]] and infamous for the songs "Let's Run Over [[Lionel Richie]] With a Tank", "[[Clearasil]] [[Messiah]]" and "U Stink But I Love U".  Breathed eventually had Deathtöngue change their name to the umlaut-free [[Billy and the Boingers]] following pressure from congressional hearings on "porn rock" led by one "Tippy Gorp", an obvious reference to heavy metal [[bête noire]] [[Tipper Gore]] and the [[PMRC]].
+
+The novel ''[[Zodiac (book)|Zodiac]]'' (1988) by [[Neal Stephenson]] features a fictional band called P&ouml;yzen B&ouml;yzen, which one character describes as "not bad for a two-umlaut band".
+
+In 1997, [[parody]] newspaper ''[[The Onion]]'' published an article called "Ünited Stätes Toughens Image With Umlauts", about a [[United States Congress|congressional]] attempt to add umlauts to the name of the [[United States|United States of America]] to make it seem "bad-assed and scary in a quasi-heavy-metal manner".
+
+[[Journalist]] and [[author]] Steve Almond coined the term "[[spandex]] and umlaut circuit" in [[2002]] to describe the heavy metal touring scene.
+
+Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City'' with ''A Heavy Metal Odyssey in Rural Nörth Daköta''.
+
+[[Webcomic]] artist [[Scott Kurtz]] drew a series of cartoons about a fake band called ''Djörk'' in his [http://www.pvponline.com/index.php3 ''PvP Online''] webcomic. Apart from possibly satirizing the heavy metal umlaut, this name also refers to the Icelandic singer/songwriter [[Björk]] Guðmundsdóttir, whose umlaut is genuine.
+
+==Other usages of diacritics in band or album naming==
+
+===Umlaut===
+
+* [[Frank Zappa]] used an umlaut in the title of the album "Läther"
+* the novelty rock band [[Green Jellÿ]] added an umlaut when changing their name from "Green Jello"
+* the [[Music of Scotland|Scottish]] [[NWOBHM]] band [[Holocaust_(band)|Holocaust]] spelled their name Hölöcäust on their first [[7"]], "Heavy Metal Mania".
+* the [[Music of Canada|Canadian]] [[thrash metal]] band [[Infernäl Mäjesty]].
+* the [[Music of France|French]] [[black metal]] band [[Mütiilation]], this umlaut cannot affect pronounciation, as ''u'' and ''ü'' have the same sounds in French as ''ü'' in German.
+* the [[Florida]] [[grindcore]] band [[Assück]].
+* the hardcore/ska-punk band [[Leftover Crack|Leftöver Crack]]
+* the [[Florida]] [[goth]]/[[darkwave]] band [[The Crüxshadows]].
+* the [[Music of Australia|Australian]] [[Australian war metal|war metal]] band [[Deströyer 666]]
+* [[D&uuml;rty Nelly's Pub]], a rock bar in [[Charlottesville, Virginia]].
+* [[Peoria, Illinois]] band [[Mudvayne]] listed their members on one release as Chüd, Güüg, R-üD and Spüg.
+* Minneapolis crust/hardcore punk band St&#257;te of Feär
+* the [[rock en espanol|Spanish band]] [[Mägo de Oz]].
+* the term "nü-metal", used to describe [[nu metal]] with added umlautness.
+* gay heavy metal band/cabaret act [[Pink Stëël]] have two ''consecutive'' gratuitous umlauts, the first such instance in a band name. The library/scifi metal band [[Bl&ouml;&ouml;dhag]] also have consecutive gratuitous umlauts.
+* the [[Devin Townsend]] punk parody project [[Punky Brüster]].
+* the Canadian thrash band [[Voivod (band)|Voïvod]]'s second album from 1986 was titled ''RRRÖÖÖAAARRR''. This album title actually has three consecutive gratuitous umlauts. The band's name has an umlaut over the I, but this may be acting as a diæresis.
+* the Finnish hardcore punk band [[Ümlaut]] (this use is almost a [[self-reference]]).
+* [[Zee (band)|Zee]], a short-lived band formed by [[Pink Floyd]] keyboard player [[Richard Wright (musician)|Richard Wright]] and [[Dave Harris]], made excessive use of gratuitous umlauts on their 1984 album ''[[Identity (album)|Identity]]'' which included song titles such as "Cönfüsiön" and "Höw Dö Yöü Dö It".
+* the [[kibology]] inspired, [[Usenet]]-based quasi-band [[Interröbang Cartel]].
+* the Spanish EBM duo [[Culture Kultür]].
+* the [[J-Rock|Japanese rock]] band, [[Lä-ppisch]].
+* the album "Paradÿsso", recorded by Spanish rock band [[Sôber]], who added a gratuitous circumflex after changing their name from Sober Stoned.
+
+===Other characters===
+
+* the German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) diaeresis. This can be represented in Unicode: {{unicode|Die A&#8411;rzte}}. The three dots may stand for the three band members.
+* the American thrash band [[Lååz Rockit]] actually used the letter "[[Å|å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
+* the French band [[Magma (band)|Magma]] used a [[constructed language | fictional language]], the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''. However, this umlaut does affect pronunciation, and thus cannot be considered gratuitous. Kobaian also uses a three-dot diacritic over some letters in song titles, and an original letter that seems to be a cursive [[ligature (typography)|ligature]] of "ie", which never appears without an umlaut.
+* the [[accent]]s and [[cedilla]] in the name of the French electronica band [[Rinôçérôse]] are also gratuitous.
+*[[William Orbit|William Ørbit]].
+* The dark folk / experimental / occult band [[Death In June]] used umlauts (and in the second case, even accented e's) in the original releases of their albums ''The Wörld Thät Sümmer'' (1985) and ''Thé Wäll Öf Säcrificé'' (1989) - and, on these releases, also in the band name, leading to ''Deäth In Jüne'' (resp. ''Déäth In Jüné'').
+
+===Non-gratuitous umlauts===
+
+* the [[punk rock]] band [[Hüsker Dü]]. The name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
+* the [[Toronto, Ontario]] area folk-pop/geek-rock band [[Moxy Früvous]] (perhaps not gratuitous, as the name is pronounced with long-u, "Fruuvous")
+* [[heavy metal (music)|heavy metal]] band [[Trojan (band)|Trojan]] used umlauts in their name on the 1985 release ''Chasing the Storm''. For [[Sweden|Swedes]] the tour T-shirts from this time are particularly amusing, as "Tröjan" in Swedish translates as "the shirt".
+* [[Rhode Island]] "futurock" band [[Grüvis Malt]] has an umlaut in their name, but it may not be gratuitous, since it clarifies the pronunciation as "oo" rather than "uh".
+*The [[kibology]] inspired, [[Usenet]]-based quasi-band [[Interröbang Cartel]].
+*The [[San Francisco]] band [[Children of Umlaut]] do not in fact have an umlaut in their name.
+* [[Björk]] Guðmundsdóttir is her birth name.
+
+==See also==
+*[[Foreign branding]]
+*[[Leet]]
+*[[Language game]]
+*[[word play]]
+
+==External links and references==
+*[http://www.spiraling.com/words/umlaut.html Hell Holes: Spinal Tap's main man explains the importance of the umlaut] (Lisa Gidley, ''CMJ'', 2000)
+* ''[http://www.chron.com/cs/CDA/story.hts/ae/books/ch1/1416123 My Life in Heavy Metal]'' by Steve Almond
+* [http://www.rockdots.com/thedots.html The D&ouml;ts] (Dave Krinsky)
+* [http://www.clicknation.com/snoof/stuff/umlaut.pdf Would you like umlauts with that?] (PDF) by Bruce Campbell
+* [http://www.pvponline.com/archive.php3?archive=20041106 PvP Online: Dj&ouml;rk]
+* [http://weblog.infoworld.com/udell/2005/01/22.html#a1156 Heavy Metal Umlaut: The Movie] Story of this page (Jon Udell)
+* [http://liff.comegetsome.at/search.php?browsed=1&searchme=Doetinchem The Heavy Metal Umlaut in the Liff Dictionary]
+[[de:Heavy Metal Umlaut]]
+[[es:Umlaut del heavy metal]]
+[[Category:Heavy metal]]
+[[Category:Diacritics]]
