@@ -2,7 +2,7 @@ A '''heavy metal umlaut''' is an [[umlaut]] over some of the letters in the name
 
 The original use appears to have been by the [[Blue Öyster Cult]] in [[1971]]. [[Motörhead]] and [[Mötley Crüe]] then followed.
 
-[[Queensrÿche]] went further by putting the umlaut over the 'y' in their name (otherwise only used in [[French language|French]]). From a linguistic viewpoint, this might be regarded as an attempt at a [[diaresis]], rather than as an umlaut, were it not for the fact that there are no vowels to be pronounced distinctly.
+[[Queensrÿche]] went further by putting the umlaut over the 'y' in their name (the "ÿ" is otherwise only used in [[Dutch language|Dutch]]). From a linguistic viewpoint, this might be regarded as an attempt at a [[diaresis]], rather than as an umlaut, were it not for the fact that there are no vowels to be pronounced distinctly.
 
 Spoof band [[Spinal Tap]] parodied the idea still further by putting the umlaut over the letter 'n' (some browsers may be able to display this using [[Unicode]]: "Spin&#776;al Tap"). The n-umlaut character does not occur in any known language or belong to any standard character set.
 
