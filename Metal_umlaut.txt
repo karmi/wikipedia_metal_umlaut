@@ -42,6 +42,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 ==Other musical usages of gratuitous diacritics==
 
 * the [[Florida]] [[grindcore]] band [[Assück]].
+* the [[crust]] band Leftöver Crack
 * the [[Florida]] [[goth]]/[[darkwave]] band [[The Crüxshadows]].
 * the [[Music of Australia|Australia]]n [[thrash metal|black/thrash metal]] band [[Deströyer 666]]
 * the German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with a (double dot) diaeresis. This can be represented in Unicode: Die A&#8411;rzte.
