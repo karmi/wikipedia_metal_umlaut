@@ -2,7 +2,7 @@
 
 A '''heavy metal umlaut''' is an [[umlaut]] over letters in the name of a [[heavy metal music|heavy metal]] band. Umlauts and other [[diacritic]]s with a [[blackletter]] style [[typeface]] are a form of [[foreign branding]] intended to give a band's logo a tough Germanic feel. 
 
-[[Spin magazine]] referred to the heavy metal umlaut as ''"the diacritical mark of the beast."'' 
+In [[2002]]<!-- we're still not sure what exact issue - FIXME -->, [[Spin magazine]] referred to the heavy metal umlaut as ''"the diacritical mark of the beast."'' 
 
 Heavy metal umlauts have been parodied in film and fiction. David St. Hubbins ([[Michael McKean]]) in the film ''[[Spinal Tap|This Is Spinal Tap]]'' opines, ''"It's like a pair of eyes. You're looking at the umlaut, and it's looking at you."''
 
@@ -43,7 +43,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * the German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with a (double dot) diaeresis. This can be represented in Unicode: Die A&#8411;rzte.
 * [[D&uuml;rty Nelly's Pub]], a rock bar in [[Charlottesville, Virginia]].
 * the [[punk rock]] band [[Hüsker Dü]]. The name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
-* the American thrash band [[Lääz Rockit]] actually used the symbol "[[Å]]" in their logo ("Lååz Rockit"), but in press releases when the name was spelled out, used the umlaut.
+* the American thrash band [[Lååz Rockit]] actually used the symbol "[[Å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''.
 * the [[rock en espanol|Spanish band]] [[Mägo de Oz]].
 * the term "nü-metal," used to describe [[nu metal]] with added umlautness.
