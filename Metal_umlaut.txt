@@ -34,7 +34,7 @@ In 1997, [[parody]] newspaper [[The Onion]] published an article called ''Ünite
 
 * the band [[Assück]].
 * the Australian [[thrash metal|black/thrash metal]] band [[Deströyer 666]]
-* the German punk band [[Die Ärzte]] used three dots (triaresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with a (double dot) diaresis. This can be represented in Unicode: Die A&#8411;rzte.
+* the German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with a (double dot) diaeresis. This can be represented in Unicode: Die A&#8411;rzte.
 * the [[punk rock]] band [[Hüsker Dü]]. The name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''.
 * the [[rock en espanol|Spanish band]] [[Mägo de Oz]].
