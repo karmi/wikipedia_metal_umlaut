@@ -8,9 +8,13 @@ Heavy metal umlauts have been parodied in film and fiction. David St. Hubbins ([
 
 ==Umlauts and diaereses==
 
-The German word ''Umlaut'' comes from ''um-'', meaning "to change" and ''Laut'', meaning "sound"; the ''U'' and ''Ü'' and ''O'' and ''Ö'' are pronounced differently.   The English word ''diaeresis'' comes from a Greek word meaning "divide or distinguish".  It is usually used to indicate that two [[vowel]]s are to be pronounced separately, as in the name ''Chloë'', or the word ''coöperation''.
-
-Ironically for speakers of languages which rely on umlauts, such as [[German language|German]], [[Swedish language|Swedish]], [[Finnish language|Finnish]], [[Hungarian language|Hungarian]] or [[Turkish language|Turkish]], the umlauted vowels represent a weaker, lighter sound rather than the intended impression of strength and darkness.  
+The German word ''Umlaut'' means roughly ''sound change'', being composed of ''um-'' (a prefix often used with verbs involving "change") and ''Laut'', meaning "sound".  Adding an umlaut indeed changes the pronunciation of a vowel in standard (non-Heavy-Metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do  ''o'' vs. ''ö'' and ''a'' vs. ''ä''.  
+Umlauts are used in in several languages, such as [[German language|German]], [[Swedish language|Swedish]], [[Finnish language|Finnish]], [[Hungarian language|Hungarian]], and [[Turkish language|Turkish]];
+the sounds represented by the umlautted letters in these languages are [[Front_vowel|''front vowels'']] (front [[Vowel_roundedness|rounded vowels]] in the case of ''ü'' and ''ö'').
+Ironically, 
+these sounds tend to be perceived as  "weaker" or "lighter" than the vowels represented by un-umlautted "u", "o", and "a", thus failing to create the intended impression of strength and darkness.
+  
+The English word ''diaeresis'' comes from a Greek word meaning "divide or distinguish".  It is usually used to indicate that two [[vowel]]s are to be pronounced separately, as in the name ''Chloë'', or the word "coöperation".
 
 At one Mötley Crüe  performance in Germany, the entire audience started chanting, "Moertley Creuh!" [[Queensr&yuml;che]] frontman [[Geoff Tate]] stated, "The umlaut over the 'y' has haunted us for years. We spent eleven years trying to explain how to pronounce it."
 
