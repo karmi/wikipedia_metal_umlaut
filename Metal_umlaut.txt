@@ -20,6 +20,7 @@ In the mid-1980s, cartoonist Berke Breathed parodied this practice further in th
 In 1997, the [[parody]] newspaper, [[The Onion]], published an article entitled "Ünited Stätes Toughens Image With Umlauts," about a [[United States Congress|congressional]] attempt to add umlauts to the name of the [[United States|United States of America]] to make it seem tougher to the rest of the world.
 
 Other umlaut sightings:
+* the Finnish punk hardcore band Ümlaut
 * the name of the band [[Assück]]
 * the [[punk rock]] band [[Hüsker Dü]] (the name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.
 * [[heavy metal]] band [[Trojan]] used umlauts in their name on the 1985 release ''Chasing the Storm''. (For Swedes the tour T-shirts from this time are particularly funny, as "Tröjan" in Swedish translates as "the shirt.")
@@ -29,6 +30,7 @@ Other umlaut sightings:
 * the German punk band [[Die Ärzte]] used three dots (triaresis?) over the "A" in ''Ärzte''. This can be represented in Unicode: Die A&#8411;rzte.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles ("Mekanïk Destruktïw Kommandöh" or "Köhntarkösz" for instance)
 * the accents in the name of the French electronica band [[Rinôçérôse]] are also gratuitous
+ 
 
 ==See also==
 
