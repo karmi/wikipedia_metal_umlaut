@@ -1,4 +1,4 @@
-[[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to Mot&ouml;rhead's first album for &aelig;sthetic reasons.]]
+[[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to the cover of Mot&ouml;rhead's first album for &aelig;sthetic reasons.]]
 
 A '''heavy metal umlaut''' is an [[umlaut]] (not to be confused with a  [[diaeresis]], the name given to the same symbol when used on the second of two vowels to show that both are pronounced) over some of the letters in the names of a [[heavy metal music|heavy metal]] band &mdash; although the names might then sound odd to people who use languages in which umlauts are common, such as [[German language|German]], [[Turkish language|Turkish]] or [[Swedish language|Swedish]].
 
@@ -34,9 +34,9 @@ In 1997, [[parody]] newspaper [[The Onion]] published an article called ''Ünite
 * the Australian [[thrash metal|black/thrash metal]] band [[Deströyer 666]]
 * the German punk band [[Die Ärzte]] used three dots (triaresis?) over the "A" in ''Ärzte''. This can be represented in Unicode: Die A&#8411;rzte.
 * the [[punk rock]] band [[Hüsker Dü]]. (The name is a [[Danish language|Danish]] phrase meaning "Do you remember?". However, ü is not used in Danish and the correct phrase would be "husker du?" The band took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts.)
-* the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles ("Mekanïk Destruktïw Kommandöh" or "Köhntarkösz" for instance).
+* the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles (''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz'', for instance).
 * the [[rock en espanol|Spanish band]] [[Mägo de Oz]].
-* the term "nü-metal" used to describe [[nu metal]] with added umlautness.
+* the term "nü-metal," used to describe [[nu metal]] with added umlautness.
 * gay heavy metal band/cabaret act [[Pink Stëël]] have two ''consecutive'' umlauts, the first such instance in a band name.
 * the accents in the name of the French electronica band [[Rinôçérôse]] are also gratuitous.
 * [[heavy metal]] band [[Trojan (band)|Trojan]] used umlauts in their name on the 1985 release ''Chasing the Storm''. (For Swedes the tour T-shirts from this time are particularly amusing, as "Tröjan" in Swedish translates as "the shirt".)
