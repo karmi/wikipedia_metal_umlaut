@@ -26,7 +26,7 @@ Other umlaut sightings:
 * the term "nü-metal" used to describe [[nu metal]] with added umlaut-ness.
 * gay heavy metal band/cabaret act [[Pink Stëël]] have two ''consecutive'' umlauts, the first such instance in a band name
 * the [[rock en espanol|Spanish band]] [[Mägo de Oz]]
-* the German punk band [[Die Ärzte]], used three dots (triaresis?) over the "A" in ''Ärzte''.
+* the German punk band [[Die Ärzte]] used three dots (triaresis?) over the "A" in ''Ärzte''. This can be represented in Unicode: Die A&#8411;rzte.
 * the French band [[Magma (band)|Magma]] used a fictional language, the Kobaïan, for its lyrics. The umlaut appeared in several album titles ("Mekanïk Destruktïw Kommandöh" or "Köhntarkösz" for instance)
 * the accents in the name of the French electronica band [[Rinôçérôse]] are also gratuitous
 
