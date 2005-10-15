@@ -82,7 +82,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * The dance music record label [[nocturnal groove]] has an umlaut on the n.
 * [[Hungary|Hungarian]] ''black n' roll'' band [[Korog]] has a gratuitous umlaut over the letter ''r'' in their name, which actually means "it rumbles" and is a verb that is used exclusively to describe the sound of a hungry person's stomach.
 * Italian metal band [[Labyrinth]] used to call themselves [[Labÿrinth]]  until 2003
-* Belgian experimental electronics act Köhn from the belgian [[post-rock]] band [[de portables]] uses the umlaut excessively in is song titles, all of which are (West-)Flemish wordgames. A selection: Zwöhn, Köhning, Kröhn, öhnöch, Köh-köh-köh-kök, Dröhn, Söng, Döhre, Mendelköhn, Niplöhn, Dedzu!, Plöhs, Nigewöhne,Vlaamse Röhs, Öhresong, Könöhn, Zwähftähf, Klöhrgöhr, Föhnen, Mendelssöhn, Köhnepijp, Köhtels, Nöhk, Köhnepoht, Köhnetand, Böhnhahs, Köhnflict, Swöhr L, Kallkühn, Akkönnkönk, Püberiosum and Möhik Bin?
+
 ===Other characters===
 
 * The German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) diaeresis. This can be represented in Unicode: {{unicode|Die A&#8411;rzte}}. The three dots may stand for the three band members.
@@ -112,6 +112,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * Another German band, [[Einstürzende Neubauten]] ''(collapsing new buildings)'', features an umlaut where, in German, there ought to be one.
 * Two of the eight correct spellings of the [[discordian]] project [[Die Epheser]] include wrong umlauts.
 * The correctly umlauted name of the German folk band [[Bläck Fööss]] means ''bare feet'' in [[Kölsch (dialect)|Kölsch]], a German dialect.
+* Belgian experimental electronics act Köhn from the belgian [[post-rock]] band [[de portables]] uses the umlaut excessively in his song titles. All the words are (West-)Flemish wordgames and are made up. Their prupose is to mock the seriousness and intellectualism that is attached to "difficult" electronic music, e.g. Möhik Bin pronounced in West-Flemish dialect means "Can i come in". A selection: Zwöhn, Köhning, Kröhn, öhnöch, Köh-köh-köh-kök, Dröhn, Söng, Döhre, Mendelköhn, Niplöhn, Dedzu!, Plöhs, Nigewöhne,Vlaamse Röhs, Öhresong, Könöhn, Zwähftähf, Klöhrgöhr, Föhnen, Mendelssöhn, Köhnepijp, Köhtels, Nöhk, Köhnepoht, Köhnetand, Böhnhahs, Köhnflict, Swöhr L, Kallkühn, Akkönnkönk, Püberiosum and Möhik Bin?
 
 ==See also==
 
