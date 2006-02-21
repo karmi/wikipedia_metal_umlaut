@@ -7,14 +7,12 @@ A '''heavy metal umlaut''' (aka '''röck döts''') is an [[umlaut]] over a lette
 Heavy metal umlauts have been parodied in film and fiction. In the film ''[[This Is Spinal Tap]]'' (which is spelled with an umlaut over the "n" and a [[Turkish dotted and dotless I|dotless i]]), David St. Hubbins ([[Michael McKean]]) opined, "It's like a pair of eyes. You're looking at the umlaut, and it's looking at you." In [[2002]]<!-- we're still not sure what exact issue - FIXME -->, [[Spin magazine|''Spin'' magazine]] referred to the heavy metal umlaut as "the diacritical mark of the beast".
 
 ==Umlauts and diaereses==
-
 The German word ''Umlaut'' roughly means ''changed sound'', as it is composed of ''um-'' (a prefix often used with verbs involving "change") and ''Laut'', here meaning "sound".  Adding an umlaut indeed changes the pronunciation of a [[vowel]] in standard (non-heavy metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do  ''o'' vs. ''ö'' and ''a'' vs. ''ä''.  
 Umlauts, or visually similar [[grapheme|graphemes]], are used in several languages, such as [[Icelandic language|Icelandic]], [[German language|German]], [[Swedish language|Swedish]], [[Finnish language|Finnish]], [[Estonian language|Estonian]], [[Hungarian language|Hungarian]], [[Azeri language|Azeri]] and [[Turkish language|Turkish]]. The sounds represented by the umlauted letters in these languages are typically ''[[front vowel]]s'' (front [[Vowel roundedness|rounded vowels]] in the case of ''ü'' and ''ö''). Ironically, these sounds tend to be perceived as  "weaker" or "lighter" than the vowels represented by un-umlautted ''u'', ''o'', and ''a'', thus failing to create the intended impression of strength and darkness.
 
 The English word ''[[diaeresis]]'' refers to a diacritic graphically similar to the umlaut; the name comes from a Greek word meaning "divide or distinguish".  This diacritic is used in languages such as [[Greek language|Greek]], [[French language|French]], [[Spanish language|Spanish]], [[Catalan language|Catalan]], [[Dutch language|Dutch]], [[Portuguese language|Portuguese]], and occasionally [[English language|English]] to indicate that two [[vowel]]s are to be pronounced separately, as in the name "Chloë" or the word "naïve".
 
 ==History==
-
 The [[progressive rock]] band [[Amon Düül II]] (aka Amon Duul II<!--please keep aka for Google-->) released their first album in [[1969]]. However, their name came from "[[Ammon|Amon]]  an Egyptian sun god and [[Düül]] a character from Turkish fiction" [http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70406050306300345&sql=B1c8j1vsjzzza], so this use of diaereses was not gratuitous. The third part of [[Yes (band)|Yes]]'s progressive rock epic "Starship Trooper" is entitled "Würm" (on [[The Yes Album]], released 1971). However, this again is probably not gratuitous, seemingly coming from the [[Würm glaciation]].
 
 The first ''gratuitous'' use appears to have been by the [[Blue Öyster Cult]] in [[1970]]. The band's website states it was added by guitarist and keyboardist [[Allen Lanier]] [http://www.blueoystercult.com/History/history3.html], but rock critic [[Richard Meltzer]] claims to have suggested it to their producer and manager [[Sandy Pearlman]] just after Pearlman came up with the name: "I said, 'How about an umlaut over the O?' Metal had a [[Richard Wagner|Wagnerian]] aspect anyway." [http://www.spiraling.com/words/umlaut.html]
@@ -89,7 +87,6 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * Seattle "splatter rock" band The Accüsed
 
 ===Other characters===
-
 * The German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A&#8411;rzte}}. The three dots may stand for the three band members.
 * A three-dot umlaut has also been seen in artwork for [[King Creosote]], over the i, as ''Ki&#8411;ng Cresote''.
 * The American thrash band [[Lååz Rockit]] actually used the letter "[[å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
@@ -102,7 +99,6 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * The Canadian rock band [[ÄlExBénnétt]], with the umlaut over the A, and the Two E's. Strangely, they have no affect on the pronounciation of the name.
 
 ===Non-gratuitous umlauts===
-
 * The US [[punk rock|punk]]/[[alternative rock]] band [[Hüsker Dü]] took their name from a [[Husker Du? (game)|children's memory game]], which added [[macron]]s over each u in the phrase, replacing these macrons with umlauts. Without the umlauts, "husker du" is a [[Danish language|Danish]] and [[Norwegian language|Norwegian]] phrase meaning "Do you remember".
 * The name of the [[Toronto, Ontario]] area folk-pop/geek-rock band [[Moxy Früvous]] is pronounced with long-u, "Fruuvous", so this is perhaps not gratuitous.
 * The [[Florida]] [[goth]]/[[darkwave]] band [[The Crüxshadows]], is also pronounced with long-u, "Cruu-shadows", so this is also perhaps not gratuitous.
@@ -121,7 +117,6 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * Belgian experimental electronics act Köhn from the belgian [[post-rock]] band [[de portables]] uses the umlaut excessively in his song titles. All the words are (West-)Flemish wordgames and are made up. Their purpose is to mock the seriousness and intellectualism that is attached to "difficult" electronic music, e.g., Möhik Bin pronounced in West-Flemish dialect means "Can i come in". A selection: Zwöhn, Köhning, Kröhn, öhnöch, Köh-köh-köh-kök, Dröhn, Söng, Döhre, Mendelköhn, Niplöhn, Dedzu!, Plöhs, Nigewöhne,Vlaamse Röhs, Öhresong, Könöhn, Zwähftähf, Klöhrgöhr, Föhnen, Mendelssöhn, Köhnepijp, Köhtels, Nöhk, Köhnepoht, Köhnetand, Böhnhahs, Köhnflict, Swöhr L, Kallkühn, Akkönnkönk, Püberiosum and Möhik Bin?
 
 ==See also==
-
 * [[Foreign branding]] ([[Häagen-Dazs]], Fahrvergnügen)
 * [[Corna|Devil horns]] heavy metal hand signal
 * [[Faux Cyrillic]] ([[Linkin Park|Liиkiи Park]])
@@ -131,7 +126,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * [[ISO-8859-1]]
 
 ==Sources==
-*{{book reference|Author=Garofalo, Rebee|Title=Rockin' Out: Popular Music in the USA|Publisher=Allyn & Bacon|Year=1997|ID=ISBN 0205137032}}
+*{{cite book|author=Garofalo, Rebee|title=Rockin' Out: Popular Music in the USA|publisher=Allyn & Bacon|year=1997|id=ISBN 0205137032}}
 
 ==Notes==
 #{{note|Garofalo}} Garofalo, pg. 292 <small>''Some groups, for example Blue Öyster Cult and Motörhead, added gratuitous umlauts to their names to conjure up a more generic gothic horror, a practice that continued into the 1980s with Mötley Crüe and others.''
@@ -144,10 +139,12 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2003]] book ''Fargo Rock City''
 * [http://www.pvponline.com/archive.php3?archive=20041106 PvP Online: Djörk]
 * [http://weblog.infoworld.com/udell/2005/01/22.html#a1156 Heavy Metal Umlaut: The Movie] Story of this page (by Jon Udell)
 * [http://liff.comegetsome.at/search.php?browsed=1&searchme=Doetinchem The Heavy Metal Umlaut in the Liff Dictionary]
+
+{{featured article}}
+
 [[Category:Heavy metal]]
 [[Category:Diacritics]]
 
 [[de:Heavy-Metal-Umlaut]]
 [[es:Umlaut del heavy metal]]
 [[sv:Heavy metal-omljud]]
-{{featured article}}
