@@ -86,6 +86,7 @@ Rock critic [[Chuck Klosterman]] subtitled his [[2001]] book ''Fargo Rock City''
 * The [[Spain|Spanish]] pop band [[Nosoträsh]].
 * Demoscene group [[Ümlaüt Design]] has two self-referential gratuitous umlauts.
 * Seattle "splatter rock" band The Accüsed
+* The spine of the DVD A Long Days Night reads Blue Oÿster Cult.
 
 ===Other characters===
 * The German punk band [[Die Ärzte]] used three dots (triaeresis?) over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
