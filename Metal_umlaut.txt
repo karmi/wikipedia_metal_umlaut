@@ -93,8 +93,6 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 * The Norwegian [[thrash metal]] band [[Infernö]].
 * During the 80's the intellectual SoCal-based art-rock band [[Daniel Amos]] changed it's name twice, first to DA, then to Da, and when their album [[''Kalhöun'']] was released in 1991, the band changed their name once again, this time to dä.
 
-The Norwegian [[thrash metal]] band [[Infernö]].
-
 ===Other characters===
 * The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
 * A three-dot umlaut has also been seen in artwork for [[King Creosote]], over the i, as ''Ki⃛ng Cresote''.
