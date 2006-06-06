@@ -95,7 +95,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 * During the 80's the intellectual SoCal-based art-rock band [[Daniel Amos]] changed it's name twice, first to DA, then to Da, and when their album ''Kalhöun'' was released in 1991, the band changed their name once again, this time to dä.
 
 ===Other characters===
-* The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
+* The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
 * A three-dot umlaut has also been seen in artwork for [[King Creosote]], over the i, as ''Ki⃛ng Cresote''.
 * The American thrash band [[Lååz Rockit]] actually used the letter "[[å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
 * The French band [[Magma (band)|Magma]] used a [[constructed language|fictional language]], the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''. However, this umlaut does affect pronunciation, and thus cannot be considered gratuitous. Kobaian also uses a three-dot diacritic over some letters in song titles, and an original letter that seems to be a cursive [[ligature (typography)|ligature]] of "ie", which never appears without an umlaut.
