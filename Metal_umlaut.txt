@@ -93,6 +93,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 * The Florida spoof/cover band, "George Cunninghäm änd the Devästätors", best known for their songs "Bäd to the Boner".
 * The Norwegian [[thrash metal]] band [[Infernö]].
 * During the 80's the intellectual SoCal-based art-rock band [[Daniel Amos]] changed it's name twice, first to DA, then to Da, and when their album ''Kalhöun'' was released in 1991, the band changed their name once again, this time to dä.
+* The Northern Virginia metal band [[Wärhammer]].
 
 ===Other characters===
 * The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
@@ -124,6 +125,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 * The correctly umlauted name of the German folk band [[Bläck Fööss]] means ''bare feet'' in [[Kölsch (dialect)|Kölsch]], a German dialect.
 * Belgian experimental electronics act Köhn from the Belgian [[post-rock]] band [[de portables]] uses the umlaut excessively in his song titles. All the words are (West-)Flemish wordgames and are made up. Their purpose is to mock the seriousness and intellectualism that is attached to "difficult" electronic music, e.g., Möhik Bin pronounced in West-Flemish dialect means "Can I come in". A selection: Zwöhn, Köhning, Kröhn, öhnöch, Köh-köh-köh-kök, Dröhn, Söng, Döhre, Mendelköhn, Niplöhn, Dedzu!, Plöhs, Nigewöhne, Vlaamse Röhs, Öhresong, Könöhn, Zwähftähf, Klöhrgöhr, Föhnen, Mendelssöhn, Köhnepijp, Köhtels, Nöhk, Köhnepoht, Köhnetand, Böhnhahs, Köhnflict, Swöhr L, Kallkühn, Akkönnkönk, Püberiosum and Möhik Bin?
 * The Northern Virginia metal band [[Wärhammer]].
+
 
 ==See also==
 * [[Foreign branding]] ([[Häagen-Dazs]], Fahrvergnügen)
