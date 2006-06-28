@@ -96,6 +96,7 @@ Omaha based [[ska]] [[metal]] band, [[UmlaUt]], fronted by local [[Patrick Kilco
 * The Norwegian [[thrash metal]] band [[Infernö]].
 * During the 80's the intellectual SoCal-based art-rock band [[Daniel Amos]] changed it's name twice, first to DA, then to Da, and when their album ''Kalhöun'' was released in 1991, the band changed their name once again, this time to dä.
 * The Northern Virginia metal band [[Wärhammer]].
+* The guitar player [[Lüpüs Thünder]], from the [[comedic]] American [[rapcore]] [[synth-pop]] band [[Bloodhound Gang]].
 
 ===Other characters===
 * The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
