@@ -98,7 +98,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 * Midwestern U.S. rock band [[Nördik Träk]].
 * Long Island garage punk band [[Ünusable Signal]] added the umlaut after countless other bands shared the original name, sans-umlaut.
 * South African metal band [[Rhütz]].
-* American rock/metal Ïnvaders, however their umlaut represents the pronunciation of their name.
+* American rock/metal group Ïnvaders, however their umlaut represents the pronunciation of their name.
 
 ===Other characters===
 * The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members.
