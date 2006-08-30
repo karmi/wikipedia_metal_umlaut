@@ -146,7 +146,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 <references />
 
 ==Sources==
-*{{cite book|author=Garofalo, Rebee|title=Rockin' Out: Popular Music in the USA|publisher=Allyn & Bacon|year=1997|id=ISBN 0205137032}}
+*{{cite book|author=Garofalo, Rebee|title=Rockin' Out: Popular Music in the USA|publisher=Allyn & Bacon|year=1997|id=ISBN 0-205-13703-2}}
 
 ==External links and references==
 {{Spoken Wikipedia|Heavy_Metal_Umlaut.ogg|2006-06-13}}
