@@ -45,7 +45,7 @@ The 1974 film ''[[Blazing Saddles]]'' included [[Madeline Kahn]]'s German-accent
 
 In the mid-1980s, cartoonist [[Berkeley Breathed]] parodied the heavy metal umlaut in the comic strip [[Bloom County]] with the fictional group [[Deathtöngue]].  Breathed eventually had Deathtöngue change their name to the umlaut-free [[Billy and the Boingers]] following pressure from congressional hearings on "porn rock."
 
-In 1988, [[Jim Henson]] and [[General Foods]] released a [[breakfast cereal]], [[Cröonchy Stars]], based on the popular [[Swedish Chef]] [[muppet]].  In addition to the gratuitous umlaut in ''Cröonchy'', most of the cereal's labelling and promotional material used the idiosyncratic spelling ''{{unicode|Swed̈ish Chef}}''.<ref>http://www.kermitage.com/html/collectibles/rarestuffnew/page3.html</ref>  As with ''{{unicode|Spin̈al Tap}}'', this marks one of the rare instances of an umlaut being used over a consonant.
+In 1988, [[Jim Henson]] and [[General Foods]] released a [[breakfast cereal]], [[Cröonchy Stars]], based on the popular [[Swedish Chef]] [[muppet]].  In addition to the gratuitous umlaut in ''Cröonchy'', most of the cereal's labelling and promotional material used the idiosyncratic spelling ''{{unicode|Swed̈ish Chef}}''.<ref>[http://www.kermitage.com/html/collectibles/rarestuffnew/page3.html Crooncy Stars Cereal - General Food Corps 1988]</ref>  As with ''{{unicode|Spin̈al Tap}}'', this marks one of the rare instances of an umlaut being used over a consonant.
 
 The novel ''[[Zodiac (novel)|Zodiac]]'' (1988) by [[Neal Stephenson]] features a fictional metal band called Pöyzen Böyzen, which one character describes as "not bad for a two-umlaut band".
 
