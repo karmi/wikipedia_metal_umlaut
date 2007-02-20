@@ -5,7 +5,7 @@ A '''heavy metal umlaut''' is an [[umlaut (diacritic)|umlaut]] over a letter in 
 Heavy metal umlauts have been parodied in film and fiction. In the [[mockumentary]] film ''{{unicode|[[This Is Spin̈al Tap]]}}'' (spelled with an umlaut over the ''n''), fictional rocker David St. Hubbins ([[Michael McKean]]) opines, "It's like a pair of eyes. You're looking at the umlaut, and it's looking at you." In 2002<!-- we're still not sure what exact issue - FIXME -->, [[Spin (magazine)|''Spin'']] magazine referred to the heavy metal umlaut as "the diacritical [[mark of the beast]]."
 
 == Umlauts and diaereses ==
-The German word ''Umlaut'' roughly means ''change of pronunciation''or "sound shift", as it is composed of ''um-'', "around", and ''Laut'', "sound". Adding an umlaut indeed changes the pronunciation of a [[vowel]] in standard (i.e. not heavy-metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do ''o'' vs. ''ö'' and ''a'' vs. ''ä''.
+The German word ''Umlaut'' roughly means ''change of pronunciation'' or ''sound shift'', as it is composed of ''um-'', "around", and ''Laut'', "sound". Adding an umlaut indeed changes the pronunciation of a [[vowel]] in standard (i.e. not heavy-metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do ''o'' vs. ''ö'' and ''a'' vs. ''ä''.
 
 Umlauts, or visually similar [[grapheme]]s, are used in several languages, such as
 [[Azerbaijani language|Azeri]],
