@@ -38,7 +38,7 @@ In contrast to other examples, the spelling of Queensrÿche was chosen to soften
 
 [[Hawkwind]]-influenced 1980s [[space rock]] band [[Underground Zerø]] used a variation on the concept, using the [[Scandinavian language|Scandinavian]] vowel ''[[ø]]'' in their name. This may have been inspired by [[computer system]]s of the time, many of which used the [[slashed zero]] as a glyph for the digit [[0 (number)|0]] to distinguish it from the letter [[O]] and thus resembled ''ø''.  The Dutch band [[Bløf]] also uses ''ø'' in its name, even though the letter is not used in [[Dutch language|Dutch]]. Ironically, Bløf is neither pronounced ''blof'' nor ''bløf''. Outside of rock, [[electronic music]] artist [[William Orbit]] has recently used the "Ø" in his surname.
 
-The [[Parody|spoof]] band [[Spinal Tap (band)|{{unicode|Spın̈al Tap}}]] raised the stakes in 1984 by using an umlaut over the letter ''N'', a [[consonant]] (it also makes use of a [[Dotless I|dotless i]]). This is a construction found only in the [[Jacaltec]] language of [[Guatemala]] and in some orthographies of [[Malagasy]], although it is uncertain whether the writers of ''{{unicode|This Is Spın̈al Tap}}'' knew this at the time.
+The [[Parody|spoof]] band [[Spinal Tap (band)|{{unicode|Spın̈al Tap}}]] raised the stakes in 1984 by using an umlaut over the letter ''N'', a [[consonant]] (it also makes use of a [[Dotless I|dotless i]]). This is a construction found only in the [[Jacaltec]] language of [[Guatemala]] and in some orthographies of [[Malagasy]], a language of [[Madagascar]], although it is uncertain whether the writers of ''{{unicode|This Is Spın̈al Tap}}'' knew this at the time.
 
 == The gratuitous umlaut in other popular literature ==
 
