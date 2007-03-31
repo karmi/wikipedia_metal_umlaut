@@ -121,7 +121,7 @@ Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''Fargo Rock City'' wit
 
 === Other characters ===
 
-* The Danish musical project [[Leæther Strip]], uses the letter [[æ]] insted of a to spell the word "leather".
+* The Danish musical project [[Leæther Strip]], uses the letter [[æ]] instead of a to spell the word "leather".
 * The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members. However, the "Ä" in the band name is not a heavy metal umlaut but the correct German spelling (meaning "The Doctors").
 * A three-dot umlaut has also been seen in artwork for [[King Creosote]], over the i, as ''Ki⃛ng Cresote''.
 * The American thrash band [[Lååz Rockit]] actually used the letter "[[å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
