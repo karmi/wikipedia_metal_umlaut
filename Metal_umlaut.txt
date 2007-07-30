@@ -1,192 +1,192 @@
-{{SpecialChars}}
-<!--It has been determined that the term "heavy metal umlaut" should not be hyphenated. If a change is necessary, please post it on the article's talk page. Thank you!-->
-[[Image:Motorhead.jpg|right|225px|thumb]]
-The '''heavy metal umlaut''', or "'''rock dots'''", is an [[umlaut (diacritic)|umlaut]] over letters in the name of a [[heavy metal music|heavy metal]] band, such as [[Mötley Crüe]] or [[Motörhead]]. The use of Umlauten and other [[diacritic]]s with a [[blackletter]] style [[typeface]] is a form of [[foreign branding]] intended to give a band's logo a [[Germanic peoples|Teutonic]] quality. It is a form of marketing that evokes stereotypes of boldness and strength commonly attributed to peoples such as the [[Vikings]]; author Reebee Garofalo has attributed its use to a desire for a "[[Gothic horror]]" feel.<ref>Garofalo, pg. 292 <small>''Some groups, for example Blue Öyster Cult and Motörhead, added gratuitous umlauts to their names to conjure up a more generic gothic horror, a practice that continued into the 1980s with Mötley Crüe and others.''</ref> The heavy metal umlaut is never referred to by the term ''[[diaeresis]]'' in this usage, nor is it intended to affect the pronunciation of the band's name.
+{{SpëcïälChärs}}
+<!--Ït häs bëën dëtërmïnëd thät thë tërm "hëävÿ mëtäl ümläüt" shöüld nöt bë hÿphënätëd. Ïf ä chängë ïs nëcëssärÿ, plëäsë pöst ït ön thë ärtïclë's tälk pägë. Thänk ÿöü!-->
+[[Ïmägë:Mötörhëäd.jpg|rïght|225px|thümb]]
+Thë '''hëävÿ mëtäl ümläüt''', ör "'''röck döts'''", ïs än [[ümläüt (dïäcrïtïc)|ümläüt]] övër lëttërs ïn thë nämë öf ä [[hëävÿ mëtäl müsïc|hëävÿ mëtäl]] bänd, süch äs [[Mötlëÿ Crüë]] ör [[Mötörhëäd]]. Thë üsë öf Ümläütën änd öthër [[dïäcrïtïc]]s wïth ä [[bläcklëttër]] stÿlë [[tÿpëfäcë]] ïs ä förm öf [[förëïgn brändïng]] ïntëndëd tö gïvë ä bänd's lögö ä [[Gërmänïc pëöplës|Tëütönïc]] qüälïtÿ. Ït ïs ä förm öf märkëtïng thät ëvökës stërëötÿpës öf böldnëss änd strëngth cömmönlÿ ättrïbütëd tö pëöplës süch äs thë [[Vïkïngs]]; äüthör Rëëbëë Gäröfälö häs ättrïbütëd ïts üsë tö ä dësïrë för ä "[[Göthïc hörrör]]" fëël.<rëf>Gäröfälö, pg. 292 <smäll>''Sömë gröüps, för ëxämplë Blüë Öÿstër Cült änd Mötörhëäd, äddëd grätüïtöüs ümläüts tö thëïr nämës tö cönjürë üp ä mörë gënërïc göthïc hörrör, ä präctïcë thät cöntïnüëd ïntö thë 1980s wïth Mötlëÿ Crüë änd öthërs.''</rëf> Thë hëävÿ mëtäl ümläüt ïs nëvër rëfërrëd tö bÿ thë tërm ''[[dïäërësïs]]'' ïn thïs üsägë, nör ïs ït ïntëndëd tö äffëct thë prönüncïätïön öf thë bänd's nämë.
 
-Heavy metal umlauts have been parodied in film and fiction. In the [[mockumentary]] film ''{{unicode|[[This Is Spinal Tap|This Is Spın̈al Tap]]}}'' (spelled with an umlaut over the ''n''), fictional rocker David St. Hubbins ([[Michael McKean]]) opines, "It's like a pair of eyes. You're looking at the umlaut, and it's looking at you." In 2002<!-- we're still not sure what exact issue - FIXME -->, [[Spin (magazine)|''Spin'']] magazine referred to the heavy metal umlaut as "the diacritical [[mark of the beast]]."
+Hëävÿ mëtäl ümläüts hävë bëën pärödïëd ïn fïlm änd fïctïön. Ïn thë [[möckümëntärÿ]] fïlm ''{{ünïcödë|[[Thïs Ïs Spïnäl Täp|Thïs Ïs Spın̈äl Täp]]}}'' (spëllëd wïth än ümläüt övër thë ''n''), fïctïönäl röckër Dävïd St. Hübbïns ([[Mïchäël McKëän]]) öpïnës, "Ït's lïkë ä päïr öf ëÿës. Yöü'rë löökïng ät thë ümläüt, änd ït's löökïng ät ÿöü." Ïn 2002<!-- wë'rë stïll nöt sürë whät ëxäct ïssüë - FÏXMË -->, [[Spïn (mägäzïnë)|''Spïn'']] mägäzïnë rëfërrëd tö thë hëävÿ mëtäl ümläüt äs "thë dïäcrïtïcäl [[märk öf thë bëäst]]."
 
-== Umlauts and diaereses ==
-The German word ''Umlaut'' roughly means ''change of pronunciation'' or ''sound shift'', as it is composed of ''um-'', "around", and ''Laut'', "sound". Adding an umlaut indeed changes the pronunciation of a [[vowel]] in standard (i.e. not heavy-metal) usage; the letters ''u'' and ''ü'' represent distinct sounds, as do ''o'' vs. ''ö'' and ''a'' vs. ''ä''.
+== Ümläüts änd dïäërësës ==
+Thë Gërmän wörd ''Ümläüt'' röüghlÿ mëäns ''chängë öf prönüncïätïön'' ör ''söünd shïft'', äs ït ïs cömpösëd öf ''üm-'', "äröünd", änd ''Läüt'', "söünd". Äddïng än ümläüt ïndëëd chängës thë prönüncïätïön öf ä [[vöwël]] ïn ständärd (ï.ë. nöt hëävÿ-mëtäl) üsägë; thë lëttërs ''ü'' änd ''ü'' rëprësënt dïstïnct söünds, äs dö ''ö'' vs. ''ö'' änd ''ä'' vs. ''ä''.
 
-Umlauts, or visually similar [[grapheme]]s, are used in many languages, including
-[[Estonian language|Estonian]],
-[[Finnish language|Finnish]],
-[[German language|German]],
-[[Hungarian language|Hungarian]],
-[[Icelandic language|Icelandic]],
-[[Portuguese language|Brazilian Portuguese]],
-[[Swedish language|Swedish]] and
-[[Turkish language|Turkish]].
-The sounds represented by the umlauted letters in these languages are typically ''[[front vowel]]s'' (front [[Vowel roundedness|rounded vowels]] in the case of ''ü'' and ''ö''). Ironically, these sounds tend to be perceived as "weaker" or "lighter" than the vowels represented by un-umlauted ''u'', ''o'', and ''a'', and thus in the languages which use it normally, the umlaut does not evoke the impression of strength and darkness which its sensational use in English is intended to convey.
+Ümläüts, ör vïsüällÿ sïmïlär [[gräphëmë]]s, ärë üsëd ïn mänÿ längüägës, ïnclüdïng
+[[Ëstönïän längüägë|Ëstönïän]],
+[[Fïnnïsh längüägë|Fïnnïsh]],
+[[Gërmän längüägë|Gërmän]],
+[[Hüngärïän längüägë|Hüngärïän]],
+[[Ïcëländïc längüägë|Ïcëländïc]],
+[[Pörtügüësë längüägë|Bräzïlïän Pörtügüësë]],
+[[Swëdïsh längüägë|Swëdïsh]] änd
+[[Türkïsh längüägë|Türkïsh]].
+Thë söünds rëprësëntëd bÿ thë ümläütëd lëttërs ïn thësë längüägës ärë tÿpïcällÿ ''[[frönt vöwël]]s'' (frönt [[Vöwël röündëdnëss|röündëd vöwëls]] ïn thë cäsë öf ''ü'' änd ''ö''). Ïrönïcällÿ, thësë söünds tënd tö bë përcëïvëd äs "wëäkër" ör "lïghtër" thän thë vöwëls rëprësëntëd bÿ ün-ümläütëd ''ü'', ''ö'', änd ''ä'', änd thüs ïn thë längüägës whïch üsë ït nörmällÿ, thë ümläüt döës nöt ëvökë thë ïmprëssïön öf strëngth änd därknëss whïch ïts sënsätïönäl üsë ïn Ënglïsh ïs ïntëndëd tö cönvëÿ.
 
-The English word ''[[diaeresis]]'' refers to a diacritic graphically similar to the umlaut; the name comes from a Greek word meaning "divide or distinguish". This diacritic is used in languages such as [[Greek language|Greek]], [[French language|French]], [[Spanish language|Spanish]], [[Dutch language|Dutch]], and [[Portuguese language|Brazilian Portuguese]] with varying purposes. Occasionally [[English language|English]] employs a diaeresis to indicate that two [[vowel]]s are to be pronounced separately, as in the name "Chloë" or the word "naïve", or in the obsolete spellings reënact and coöperate.
+Thë Ënglïsh wörd ''[[dïäërësïs]]'' rëfërs tö ä dïäcrïtïc gräphïcällÿ sïmïlär tö thë ümläüt; thë nämë cömës fröm ä Grëëk wörd mëänïng "dïvïdë ör dïstïngüïsh". Thïs dïäcrïtïc ïs üsëd ïn längüägës süch äs [[Grëëk längüägë|Grëëk]], [[Frënch längüägë|Frënch]], [[Spänïsh längüägë|Spänïsh]], [[Dütch längüägë|Dütch]], änd [[Pörtügüësë längüägë|Bräzïlïän Pörtügüësë]] wïth värÿïng pürpösës. Öccäsïönällÿ [[Ënglïsh längüägë|Ënglïsh]] ëmplöÿs ä dïäërësïs tö ïndïcätë thät twö [[vöwël]]s ärë tö bë prönöüncëd sëpärätëlÿ, äs ïn thë nämë "Chlöë" ör thë wörd "näïvë", ör ïn thë öbsölëtë spëllïngs rëënäct änd cööpërätë.
 
-== History ==
+== Hïstörÿ ==
 
-The German [[progressive rock]] band [[Amon Düül II]] (aka Amon Duul II<!--please keep aka for Google-->) released their first album in 1969. However, their name came from "[[Ammon|Amon]],  an Egyptian sun god, and [[Düül]], a character from Turkish fiction",<ref name=Amon_Düül_origin>{{cite web | url = http://www.allmusic.com/cg/amg.dll?p=amg&sql=B1c8j1vsjzzza | title = allmusic (((Amon Düül > Overview))) | accessmonthday = September 12|accessyear = 2006}}</ref> so this use of umlauts was not gratuitous. The third part of [[Yes (band)|Yes]]'s progressive rock epic "Starship Trooper" is entitled "Würm" (on [[The Yes Album]], released 1971). However, this again is probably not gratuitous, seemingly coming from the [[Würm glaciation]].
+Thë Gërmän [[prögrëssïvë röck]] bänd [[Ämön Düül ÏÏ]] (äkä Ämön Düül ÏÏ<!--plëäsë këëp äkä för Gööglë-->) rëlëäsëd thëïr fïrst älbüm ïn 1969. Höwëvër, thëïr nämë cämë fröm "[[Ämmön|Ämön]],  än Ëgÿptïän sün göd, änd [[Düül]], ä chäräctër fröm Türkïsh fïctïön",<rëf nämë=Ämön_Düül_örïgïn>{{cïtë wëb | ürl = http://www.ällmüsïc.cöm/cg/ämg.dll?p=ämg&sql=B1c8j1vsjzzzä | tïtlë = ällmüsïc (((Ämön Düül > Övërvïëw))) | äccëssmönthdäÿ = Sëptëmbër 12|äccëssÿëär = 2006}}</rëf> sö thïs üsë öf ümläüts wäs nöt grätüïtöüs. Thë thïrd pärt öf [[Yës (bänd)|Yës]]'s prögrëssïvë röck ëpïc "Stärshïp Trööpër" ïs ëntïtlëd "Würm" (ön [[Thë Yës Älbüm]], rëlëäsëd 1971). Höwëvër, thïs ägäïn ïs pröbäblÿ nöt grätüïtöüs, sëëmïnglÿ cömïng fröm thë [[Würm gläcïätïön]].
 
-The first ''gratuitous'' use appears to have been either by [[Blue Öyster Cult]] or by [[Black Sabbath]], both in 1970. Blue Öyster Cult's website states it was added by guitarist and keyboardist [[Allen Lanier]],<ref name=Blue_Öyster_1>{{cite web | url = http://www.blueoystercult.com/History/history3.html | title = BÖC Retrospectively | accessmonthday = September 12 | accessyear = 2006}}</ref> but rock critic [[Richard Meltzer]] claims to have suggested it to their producer and manager [[Sandy Pearlman]] just after Pearlman came up with the name: "I said, 'How about an umlaut over the O?' Metal had a [[Richard Wagner|Wagnerian]] aspect anyway."<ref name=Sandy_Pearlman>{{cite web | url = http://www.spiraling.com/words/umlaut.html | title = HELL HOLES: Spin̈al Tap's main man explains the importance of the umlaut | accessmonthday = September 12|accessyear = 2006}}</ref> In that same year, Black Sabbath's record label, on a rare picture-sleeve 7" single version of [[Paranoid (song)|Paranoid]] (with the b-side [[Rat Salad]]), for no apparent reason, retitled the song "Paranoïd" with a diaeresis above the "i".<ref>[http://www.fannins-collectables.com/images/b_listing/black_sabbath/paranoid/6059014_fc-fs.jpg Paroid/Rat Salad cover]</ref>  (In French, the words ''paranoïa, paranoïaque, paranoïde'' properly have the trema.)
+Thë fïrst ''grätüïtöüs'' üsë äppëärs tö hävë bëën ëïthër bÿ [[Blüë Öÿstër Cült]] ör bÿ [[Bläck Säbbäth]], böth ïn 1970. Blüë Öÿstër Cült's wëbsïtë stätës ït wäs äddëd bÿ güïtärïst änd këÿböärdïst [[Ällën Länïër]],<rëf nämë=Blüë_Öÿstër_1>{{cïtë wëb | ürl = http://www.blüëöÿstërcült.cöm/Hïstörÿ/hïstörÿ3.html | tïtlë = BÖC Rëtröspëctïvëlÿ | äccëssmönthdäÿ = Sëptëmbër 12 | äccëssÿëär = 2006}}</rëf> büt röck crïtïc [[Rïchärd Mëltzër]] cläïms tö hävë süggëstëd ït tö thëïr prödücër änd mänägër [[Sändÿ Pëärlmän]] jüst äftër Pëärlmän cämë üp wïth thë nämë: "Ï säïd, 'Höw äböüt än ümläüt övër thë Ö?' Mëtäl häd ä [[Rïchärd Wägnër|Wägnërïän]] äspëct änÿwäÿ."<rëf nämë=Sändÿ_Pëärlmän>{{cïtë wëb | ürl = http://www.spïrälïng.cöm/wörds/ümläüt.html | tïtlë = HËLL HÖLËS: Spïn̈äl Täp's mäïn män ëxpläïns thë ïmpörtäncë öf thë ümläüt | äccëssmönthdäÿ = Sëptëmbër 12|äccëssÿëär = 2006}}</rëf> Ïn thät sämë ÿëär, Bläck Säbbäth's rëcörd läbël, ön ä rärë pïctürë-slëëvë 7" sïnglë vërsïön öf [[Päränöïd (söng)|Päränöïd]] (wïth thë b-sïdë [[Rät Säläd]]), för nö äppärënt rëäsön, rëtïtlëd thë söng "Päränöïd" wïth ä dïäërësïs äbövë thë "ï".<rëf>[http://www.fännïns-cöllëctäblës.cöm/ïmägës/b_lïstïng/bläck_säbbäth/päränöïd/6059014_fc-fs.jpg Päröïd/Rät Säläd cövër]</rëf>  (Ïn Frënch, thë wörds ''päränöïä, päränöïäqüë, päränöïdë'' pröpërlÿ hävë thë trëmä.)
 
-On their second album ''[[In Search of Space]]'' (1971), [[Hawkwind]] wrote on the backside of the cover: "{{unicode|TECHNICIÄNS ÖF SPÅCE SHIP EÅRTH THIS IS YÖÜR CÄPTÅIN SPEÄKING YÖÜR ØÅPTÅIN IS DEA˝D}}". To add to the variation, [[Denmark|Danish]] and [[Norway|Norwegian]] letter Ø and Danish/Norwegian/Swedish letter Å are added. While the Å being a separate letter sounding like the word "Oh", the Danish Ø is actually pronounced exactly like the German and Turkish Ö. And also the diacritical mark on the last " {{unicode|A˝}} " is the "Hungarian umlaut" or [[double acute accent]] ( {{unicode|˝}} )—two short lines slanting up and to the right rather like a right double-quote mark—instead of dots (Hungarian uses neither the ( {{unicode|˝}} ) nor the traditional German umlaut ("Ä") over the letter "A", though, and ( {{unicode|˝}} ) is used only on the letters "Ő" and "Ű"). This was before [[Lemmy]], later of [[Motörhead]], had become a member of the group.
+Ön thëïr sëcönd älbüm ''[[Ïn Sëärch öf Späcë]]'' (1971), [[Häwkwïnd]] wrötë ön thë bäcksïdë öf thë cövër: "{{ünïcödë|TËCHNÏCÏÄNS ÖF SPÅCË SHÏP ËÅRTH THÏS ÏS YÖÜR CÄPTÅÏN SPËÄKÏNG YÖÜR ØÅPTÅÏN ÏS DËÄ˝D}}". Tö ädd tö thë värïätïön, [[Dënmärk|Dänïsh]] änd [[Nörwäÿ|Nörwëgïän]] lëttër Ø änd Dänïsh/Nörwëgïän/Swëdïsh lëttër Å ärë äddëd. Whïlë thë Å bëïng ä sëpärätë lëttër söündïng lïkë thë wörd "Öh", thë Dänïsh Ø ïs äctüällÿ prönöüncëd ëxäctlÿ lïkë thë Gërmän änd Türkïsh Ö. Änd älsö thë dïäcrïtïcäl märk ön thë läst " {{ünïcödë|Ä˝}} " ïs thë "Hüngärïän ümläüt" ör [[döüblë äcütë äccënt]] ( {{ünïcödë|˝}} )—twö shört lïnës släntïng üp änd tö thë rïght räthër lïkë ä rïght döüblë-qüötë märk—ïnstëäd öf döts (Hüngärïän üsës nëïthër thë ( {{ünïcödë|˝}} ) nör thë trädïtïönäl Gërmän ümläüt ("Ä") övër thë lëttër "Ä", thöügh, änd ( {{ünïcödë|˝}} ) ïs üsëd önlÿ ön thë lëttërs "Ő" änd "Ű"). Thïs wäs bëförë [[Lëmmÿ]], lätër öf [[Mötörhëäd]], häd bëcömë ä mëmbër öf thë gröüp.
 
-[[Motörhead]] followed in 1975. The idea for the umlaut came from [[Lemmy]], the group's lead singer, who said, "I only put it in there to look mean."<ref>[http://www.thewavemag.com/pagegen.php?pagename=article&articleid=21891 Motorhead Madman]</ref> (Interestingly, the German pronunciation of ''Motör'', a word that doesn't exist in German, would be similar to French equivalent, ''moteur''. "Motor", the correct German spelling, is pronounced similarly to "motor" in English, while "Motör" is similar  to "mother".) The band [[Hüsker Dü]] debuted in January of 1978, though they were based in [[Punk rock|punk]] and not [[heavy metal]], and their use of the umlaut was not gratuitous; it affects the pronunciation of the vowels. [[Mötley Crüe]] formed in 1980; according to [[Vince Neil]] in the band's [[Behind the Music]] edition, the inspiration came from a [[Löwenbräu]] bottle. They subsequently decided to name their record label "[[Leathür Records]]". At one [[Mötley Crüe]] performance in Germany, the entire audience started chanting "Meutley Crew-eh" - a pronunciation often used in Hungary as well.
+[[Mötörhëäd]] föllöwëd ïn 1975. Thë ïdëä för thë ümläüt cämë fröm [[Lëmmÿ]], thë gröüp's lëäd sïngër, whö säïd, "Ï önlÿ püt ït ïn thërë tö löök mëän."<rëf>[http://www.thëwävëmäg.cöm/pägëgën.php?pägënämë=ärtïclë&ärtïclëïd=21891 Mötörhëäd Mädmän]</rëf> (Ïntërëstïnglÿ, thë Gërmän prönüncïätïön öf ''Mötör'', ä wörd thät döësn't ëxïst ïn Gërmän, wöüld bë sïmïlär tö Frënch ëqüïvälënt, ''mötëür''. "Mötör", thë cörrëct Gërmän spëllïng, ïs prönöüncëd sïmïlärlÿ tö "mötör" ïn Ënglïsh, whïlë "Mötör" ïs sïmïlär  tö "möthër".) Thë bänd [[Hüskër Dü]] dëbütëd ïn Jänüärÿ öf 1978, thöügh thëÿ wërë bäsëd ïn [[Pünk röck|pünk]] änd nöt [[hëävÿ mëtäl]], änd thëïr üsë öf thë ümläüt wäs nöt grätüïtöüs; ït äffëcts thë prönüncïätïön öf thë vöwëls. [[Mötlëÿ Crüë]] förmëd ïn 1980; äccördïng tö [[Vïncë Nëïl]] ïn thë bänd's [[Bëhïnd thë Müsïc]] ëdïtïön, thë ïnspïrätïön cämë fröm ä [[Löwënbräü]] böttlë. Thëÿ sübsëqüëntlÿ dëcïdëd tö nämë thëïr rëcörd läbël "[[Lëäthür Rëcörds]]". Ät önë [[Mötlëÿ Crüë]] përförmäncë ïn Gërmänÿ, thë ëntïrë äüdïëncë stärtëd chäntïng "Mëütlëÿ Crëw-ëh" - ä prönüncïätïön öftën üsëd ïn Hüngärÿ äs wëll.
 
-[[Queensrÿche]], who took on that name in 1981, went further by putting the umlaut over the ''Y'' in their name.  (In [[French language|French]], the ''ÿ'' is used very rarely, ''e.g.'' in the placename [[L'Haÿ-les-Roses]] [la'ilɛRoz],<ref>[http://fr.wikipedia.org/wiki/L%27Ha%C3%BF-les-Roses L'Haÿ-les-Roses] in French Wikipedia</ref> etc. Queensrÿche frontman [[Geoff Tate]] stated, "The umlaut over the 'y' has haunted us for years. We spent eleven years trying to explain how to pronounce it."<ref name=Sandy_Pearlman /> In contrast to other examples, the spelling of Queensrÿche was chosen to soften the band's image, as it was feared that the original spelling, Queensreich, might be misconstrued as having [[neo-nazism|neo-nazi]] connotations.<ref>[http://www.faqs.org/faqs/music/queensryche-faq/ Queensrÿche FAQ]</ref>
+[[Qüëënsrÿchë]], whö töök ön thät nämë ïn 1981, wënt fürthër bÿ püttïng thë ümläüt övër thë ''Y'' ïn thëïr nämë.  (Ïn [[Frënch längüägë|Frënch]], thë ''ÿ'' ïs üsëd vërÿ rärëlÿ, ''ë.g.'' ïn thë pläcënämë [[L'Häÿ-lës-Rösës]] [lä'ïlɛRöz],<rëf>[http://fr.wïkïpëdïä.örg/wïkï/L%27Hä%C3%BF-lës-Rösës L'Häÿ-lës-Rösës] ïn Frënch Wïkïpëdïä</rëf> ëtc. Qüëënsrÿchë fröntmän [[Gëöff Tätë]] stätëd, "Thë ümläüt övër thë 'ÿ' häs häüntëd üs för ÿëärs. Wë spënt ëlëvën ÿëärs trÿïng tö ëxpläïn höw tö prönöüncë ït."<rëf nämë=Sändÿ_Pëärlmän /> Ïn cönträst tö öthër ëxämplës, thë spëllïng öf Qüëënsrÿchë wäs chösën tö söftën thë bänd's ïmägë, äs ït wäs fëärëd thät thë örïgïnäl spëllïng, Qüëënsrëïch, mïght bë mïscönstrüëd äs hävïng [[nëö-näzïsm|nëö-näzï]] cönnötätïöns.<rëf>[http://www.fäqs.örg/fäqs/müsïc/qüëënsrÿchë-fäq/ Qüëënsrÿchë FÄQ]</rëf>
 
-1980s [[space rock]] band [[Underground Zerø]] used a variation on the concept, taking the [[Scandinavian language|Scandinavian]] vowel ''[[ø]]'' in their name. This may have been inspired by [[computer system]]s of the time, many of which used the [[slashed zero]] as a glyph for the digit [[0 (number)|0]] to distinguish it from the letter ''[[O]]'' and thus resembled ''ø''.  The Dutch band [[Bløf]] also uses ''ø'' in its name, even though the letter is not used in [[Dutch language|Dutch]]; ironically, Bløf is pronounced neither ''blof'' nor ''bløf''.
+1980s [[späcë röck]] bänd [[Ündërgröünd Zërø]] üsëd ä värïätïön ön thë cöncëpt, täkïng thë [[Scändïnävïän längüägë|Scändïnävïän]] vöwël ''[[ø]]'' ïn thëïr nämë. Thïs mäÿ hävë bëën ïnspïrëd bÿ [[cömpütër sÿstëm]]s öf thë tïmë, mänÿ öf whïch üsëd thë [[släshëd zërö]] äs ä glÿph för thë dïgït [[0 (nümbër)|0]] tö dïstïngüïsh ït fröm thë lëttër ''[[Ö]]'' änd thüs rësëmblëd ''ø''.  Thë Dütch bänd [[Bløf]] älsö üsës ''ø'' ïn ïts nämë, ëvën thöügh thë lëttër ïs nöt üsëd ïn [[Dütch längüägë|Dütch]]; ïrönïcällÿ, Bløf ïs prönöüncëd nëïthër ''blöf'' nör ''bløf''.
 
-The [[Parody|spoof]] band [[Spinal Tap (band)|Spın̈al Tap]] raised the stakes in 1984 by using an [[N-diaeresis|umlaut over the letter ''n'']], i.e. over a [[consonant]] (it also makes use of a [[Dotless I|dotless i]]). This construction is in fact found in the [[Jacaltec]] language of [[Guatemala]] and in some orthographies of [[Malagasy]], a language of [[Madagascar]].
+Thë [[Pärödÿ|spööf]] bänd [[Spïnäl Täp (bänd)|Spın̈äl Täp]] räïsëd thë stäkës ïn 1984 bÿ üsïng än [[N-dïäërësïs|ümläüt övër thë lëttër ''n'']], ï.ë. övër ä [[cönsönänt]] (ït älsö mäkës üsë öf ä [[Dötlëss Ï|dötlëss ï]]). Thïs cönstrüctïön ïs ïn fäct föünd ïn thë [[Jäcältëc]] längüägë öf [[Güätëmälä]] änd ïn sömë örthögräphïës öf [[Mälägäsÿ]], ä längüägë öf [[Mädägäscär]].
 
-== The gratuitous umlaut in popular culture ==
+== Thë grätüïtöüs ümläüt ïn pöpülär cültürë ==
 
-* The 1974 film ''[[Blazing Saddles]]'' included [[Madeline Kahn]]'s German-accented [[Marlene Dietrich]]-style [[chanteuse]] character "Lili Von Shtupp" (according to the credits)<!-- which is documented by IMDb-->. She is announced on a poster outside the music hall as "Lili von Shtüpp"<!-- Hmm, my "Stüpp" informant lost confidence about the consonants on seeing the credits-->; the film's characters pronounce the name without any change to the vowel.
+* Thë 1974 fïlm ''[[Bläzïng Säddlës]]'' ïnclüdëd [[Mädëlïnë Kähn]]'s Gërmän-äccëntëd [[Märlënë Dïëtrïch]]-stÿlë [[chäntëüsë]] chäräctër "Lïlï Vön Shtüpp" (äccördïng tö thë crëdïts)<!-- whïch ïs döcümëntëd bÿ ÏMDb-->. Shë ïs ännöüncëd ön ä pöstër öütsïdë thë müsïc häll äs "Lïlï vön Shtüpp"<!-- Hmm, mÿ "Stüpp" ïnförmänt löst cönfïdëncë äböüt thë cönsönänts ön sëëïng thë crëdïts-->; thë fïlm's chäräctërs prönöüncë thë nämë wïthöüt änÿ chängë tö thë vöwël.
 
-* In the mid-1980s, cartoonist [[Berkeley Breathed]] parodied the heavy metal umlaut in the comic strip [[Bloom County]] with the fictional group [[Deathtöngue]].  Breathed eventually had Deathtöngue change their name to the umlaut-free [[Billy and the Boingers]] following pressure from congressional hearings on "porn rock."
+* Ïn thë mïd-1980s, cärtöönïst [[Bërkëlëÿ Brëäthëd]] pärödïëd thë hëävÿ mëtäl ümläüt ïn thë cömïc strïp [[Blööm Cöüntÿ]] wïth thë fïctïönäl gröüp [[Dëäthtöngüë]].  Brëäthëd ëvëntüällÿ häd Dëäthtöngüë chängë thëïr nämë tö thë ümläüt-frëë [[Bïllÿ änd thë Böïngërs]] föllöwïng prëssürë fröm cöngrëssïönäl hëärïngs ön "pörn röck."
 
-* In 1988, [[Jim Henson]] and [[General Foods]] released a [[breakfast cereal]], [[Cröonchy Stars]], based on the popular [[Swedish Chef]] [[muppet]].  In addition to the gratuitous umlaut in ''Cröonchy'', most of the cereal's labelling and promotional material used the idiosyncratic spelling ''{{unicode|Swed̈ish Chef}}''.<ref>[http://www.kermitage.com/html/collectibles/rarestuffnew/page3.html Crooncy Stars Cereal - General Food Corps 1988]</ref>  As with ''{{unicode|Spın̈al Tap}}'', this marks one of the rare instances of an umlaut being used over a consonant.
+* Ïn 1988, [[Jïm Hënsön]] änd [[Gënëräl Fööds]] rëlëäsëd ä [[brëäkfäst cërëäl]], [[Cröönchÿ Stärs]], bäsëd ön thë pöpülär [[Swëdïsh Chëf]] [[müppët]].  Ïn äddïtïön tö thë grätüïtöüs ümläüt ïn ''Cröönchÿ'', möst öf thë cërëäl's läbëllïng änd prömötïönäl mätërïäl üsëd thë ïdïösÿncrätïc spëllïng ''{{ünïcödë|Swëd̈ïsh Chëf}}''.<rëf>[http://www.kërmïtägë.cöm/html/cöllëctïblës/rärëstüffnëw/pägë3.html Crööncÿ Stärs Cërëäl - Gënëräl Fööd Cörps 1988]</rëf>  Äs wïth ''{{ünïcödë|Spın̈äl Täp}}'', thïs märks önë öf thë rärë ïnstäncës öf än ümläüt bëïng üsëd övër ä cönsönänt.
 
-* The novel ''[[Zodiac (novel)|Zodiac]]'' (1988) by [[Neal Stephenson]] features a fictional metal band called Pöyzen Böyzen, which one character describes as "not bad for a two-umlaut band".
+* Thë növël ''[[Zödïäc (növël)|Zödïäc]]'' (1988) bÿ [[Nëäl Stëphënsön]] fëätürës ä fïctïönäl mëtäl bänd cällëd Pöÿzën Böÿzën, whïch önë chäräctër dëscrïbës äs "nöt bäd för ä twö-ümläüt bänd".
 
-* In 1997, [[parody]] newspaper ''[[The Onion]]'' published an article called [http://www.theonion.com/content/node/32404 "Ünited Stätes Toughens Image With Umlauts"], about a [[United States Congress|congressional]] attempt to add umlauts to the name of the [[United States|United States of America]] to make it seem "bad-assed and scary in a quasi-heavy metal manner".
+* Ïn 1997, [[pärödÿ]] nëwspäpër ''[[Thë Önïön]]'' püblïshëd än ärtïclë cällëd [http://www.thëönïön.cöm/cöntënt/nödë/32404 "Ünïtëd Stätës Töüghëns Ïmägë Wïth Ümläüts"], äböüt ä [[Ünïtëd Stätës Cöngrëss|cöngrëssïönäl]] ättëmpt tö ädd ümläüts tö thë nämë öf thë [[Ünïtëd Stätës|Ünïtëd Stätës öf Ämërïcä]] tö mäkë ït sëëm "bäd-ässëd änd scärÿ ïn ä qüäsï-hëävÿ mëtäl männër".
 
-* [[Journalist]] and [[author]] Steve Almond coined the term "[[spandex]] and umlaut circuit" in 2002 to describe the heavy metal touring scene.
+* [[Jöürnälïst]] änd [[äüthör]] Stëvë Älmönd cöïnëd thë tërm "[[spändëx]] änd ümläüt cïrcüït" ïn 2002 tö dëscrïbë thë hëävÿ mëtäl töürïng scënë.
 
-* Rock critic [[Chuck Klosterman]] subtitled his 2001 book ''[[Fargo Rock City]]'', ''A Heavy Metal Odyssey in Rural Nörth Daköta''.
+* Röck crïtïc [[Chück Klöstërmän]] sübtïtlëd hïs 2001 böök ''[[Färgö Röck Cïtÿ]]'', ''Ä Hëävÿ Mëtäl Ödÿssëÿ ïn Rüräl Nörth Däkötä''.
 
-* [[Webcomic]] artist [[Scott Kurtz]] drew a series of cartoons about a fake band called ''Djörk'' in his [[PvP Online]] webcomic. Apart from satirizing the heavy metal umlaut (the original band name was to be ''Umlaüt''), this name also refers to the Icelandic singer/songwriter [[Björk]], whose diacritical marks are genuine.
+* [[Wëbcömïc]] ärtïst [[Scött Kürtz]] drëw ä sërïës öf cärtööns äböüt ä fäkë bänd cällëd ''Djörk'' ïn hïs [[PvP Önlïnë]] wëbcömïc. Äpärt fröm sätïrïzïng thë hëävÿ mëtäl ümläüt (thë örïgïnäl bänd nämë wäs tö bë ''Ümläüt''), thïs nämë älsö rëfërs tö thë Ïcëländïc sïngër/söngwrïtër [[Björk]], whösë dïäcrïtïcäl märks ärë gënüïnë.
 
-* The term [[nu metal]] is sometimes spelled as "nü metal".
+* Thë tërm [[nü mëtäl]] ïs sömëtïmës spëllëd äs "nü mëtäl".
 
-* The video game [[Guitar Hero 2]] contains the character "Lars Ümlaüt".
+* Thë vïdëö gämë [[Güïtär Hërö 2]] cöntäïns thë chäräctër "Lärs Ümläüt".
 
-* In the 2006 book "To Air Is Human", ''[[New York Times]]'' writer [[Dan Crane]] describes competing in the 2003 Air Guitar World Championships under the name Björn Türoque (a play on "Born to rock").
+* Ïn thë 2006 böök "Tö Äïr Ïs Hümän", ''[[Nëw Yörk Tïmës]]'' wrïtër [[Dän Cränë]] dëscrïbës cömpëtïng ïn thë 2003 Äïr Güïtär Wörld Chämpïönshïps ündër thë nämë Björn Türöqüë (ä pläÿ ön "Börn tö röck").
 
-== Other usages of diacritics in band or album naming ==
-=== Umlaut ===
-* The American band Gertrude's Hearse used the umlaut in the title of their first album Wörst.
-* Hungarian street-rock band [[Böiler]]
-* California thrash-metal band [[Beowülf]]
-* The Norwegian hard rock band [[Hell Dörmer]]
-* [[Frank Zappa]] used an umlaut in the title of the album ''[[Läther]]'' (pronounced Leather)
-* The German death metal band [[Spalthammer Öf Satan]] who actually pronounce the umlaut
-* [[Dälek]], NJ hip-hop trio and also the group founder
-* The novelty rock band [[Green Jellÿ]] kept the umlaut after changing their name from "Green Jellö". This was after the manufacturers of Jell-O threatened to sue over the use of their trademarked name; the band maintained that the "ÿ" was pronounced like a long "o", therefore the written name of the band changed, but the pronounced name did not.
-* The [[Music of Scotland|Scottish]] [[NWOBHM]] band [[Holocaust (band)|Holocaust]] spelled their name Hölöcäust on their first [[7"]], "Heavy Metal Mania".
-* Norwegian electronica duo [[Röyksopp]] spell their name with a Swedish-influenced [[ö]] rather than the proper Norwegian spelling "Røyksopp". The umlaut is gratuitous, and the band have stated that it is a direct reference to [[Motörhead]].<ref>{{cite news | first = Graeme | last = Virtue | title = Music: Norway calling | url = http://www.sundayherald.com/print24359 | work = Sunday Herald | date = 2002-05-05 | accessdate = 2006-09-24}}</ref>
-* The Norwegian hardrock band [[Svölk]].
-* The [[Music of Canada|Canadian]] [[thrash metal]] band [[Infernäl Mäjesty]].
-* The [[Music of Australia|Australian]] [[thrash metal|thrash]]/[[black metal]] band [[Deströyer 666]].
-* The [[Music of France|French]] [[black metal]] band [[Mütiilation]].
-* The [[Czech Republic|Czech]] death metal band [[Hypnös]] formerly known as Hypnos
-* The [[Denmark|Danish]] heavy metal band [[Handlebar Möustache]].
-* The [[Melbourne]] based avant-metal-jam-band [[Cünt Brigade]].
-* The [[deathgrind]] band, [[Assück]].
-* [[Dürty Nelly's Pub]], a rock bar in [[Charlottesville, Virginia]].
-* [[Peoria, Illinois]] band [[Mudvayne]] listed their members on one release as Chüd, Güüg, R-üD and Spüg.
-* Minneapolis crust/hardcore punk band Stāte of Feär
-* The [[rock en espanol|Spanish band]] [[Mägo de Oz]].
-* Gay heavy metal band/cabaret act [[Pink Stëël]] have two ''consecutive'' gratuitous umlauts, the first such instance in a band name. 
-* The library/scifi metal band [[Blöödhag]] also have consecutive gratuitous umlauts.
-* Seattle Spaz-core band BLOÜD WÜLF.
-* The [[Devin Townsend]] punk parody project [[Punky Brüster]].
-* The Canadian thrash band [[Voivod (band)|Voïvod]]'s second album from 1986 was titled ''[[Rrröööaaarrr]]''. This album title actually has three consecutive gratuitous umlauts. The band's name has an umlaut over the I, but this may be acting as a diæresis. Their fourth album was entitled [[Dimension Hatröss]], placing another umlaut in the title.
-* The Finnish hardcore punk band [[Ümlaut]] (this use is almost a [[self-reference]]).
-* [[Zee (band)|Zee]], a short-lived band formed by [[Pink Floyd]] keyboard player [[Richard Wright (musician)|Richard Wright]] and [[Dave Harris (musician)|Dave Harris]], made excessive use of gratuitous umlauts on their 1984 album ''[[Identity (album)|Identity]]'' which included song titles such as "Cönfüsiön" and "Höw Dö Yöü Dö It".
-* The [[kibology]] inspired, [[Usenet]]-based quasi-band [[Interröbang Cartel]], containing, in addition to its heavy metal umlaut, another exotic typographical reference, to the [[interrobang]] character.
-* The Spanish EBM duo [[Culture Kultür]].
-* The album "Paradÿsso", recorded by Spanish rock band [[Sôber]], who added a gratuitous circumflex after changing their name from Sober Stoned.
-* Würm, a band that included Chuck Dukowski, who later joined [[Black Flag (band)|Black Flag]]
-* Heavy Metal spoofers Insidiöus Törment
-* Experimental group [[Grotus]] spell their name with an umlaut over each consonant, leaving the vowels unembellished.
-* [[Hungary|Hungarian]] ''black n' roll'' band [[Korog]] has a gratuitous umlaut over the letter ''r'' in their name, which actually means "it rumbles" and is a verb that is used exclusively to describe the sound of a hungry person's stomach.
-* Italian metal band [[Labyrinth (band)|Labyrinth]] called themselves Labÿrinth until 2003.
-* English [[ceilidh]] band Stömp<ref>http://www.stompceilidh.co.uk/</ref> has an umlaut on the o. According to the band's website<ref>[http://www.stompceilidh.co.uk/html/the_umlaut.html That umlaut]</ref> this is to avoid confusion with the [[Stomp (dance troupe)|Stomp dance troupe]].<ref>http://www.stomponline.com/</ref>
-* The [[Spain|Spanish]] pop band [[Nosoträsh]].
-* Seattle "splatter rock" band [[The Accüsed]].
-* The Florida spoof/cover band, "George Cunninghäm änd the Devästätors", best known for their songs "Bäd to the Boner".
-* The Norwegian [[thrash metal]] band [[Infernö]].
-* During the 80s the intellectual SoCal-based art-rock band [[Daniel Amos]] changed its name twice, first to DA, then to Da, and when their album ''Kalhöun'' was released in 1991, the band changed their name once again, this time to dä.
-* The Northern Virginia metal band [[Wärhammer]].
-* The guitar player [[Lüpüs Thünder]], from the [[comedic]] American [[rapcore]] [[synth-pop]] band [[Bloodhound Gang]].
-* Midwestern U.S. rock band [[Nördik Träk]].
-* Long Island garage punk band [[Ünusable Signal]] added the umlaut after countless other bands shared the original name, sans-umlaut.
-* South African metal band [[Rhütz]].
-* American rock/metal group Ïnvaders, though their umlaut represents the pronunciation of their name.
-* US rock band Stärvätıønbøx
-* [[Gwar]] guitarist [[Balsac]] has insisted for years there are umlauts over both the a's in the spelling of his name and often signs his autograph as such.
-* American stoner-metal duo Fatal Härvest.
-* former [[Motörhead]] guitarist Würzel was known as Wurzel before joining the band, but singer Lemmy asked him to add the umlaut "for dramatic heavy metal effect"
-* The [[heavy metal (music)|heavy metal]] band [[Trojan (band)|Trojan]] used umlauts in their name on the 1985 release ''Chasing the Storm''. For [[Sweden|Swedes]] the tour T-shirts from this time are particularly amusing, as "Tröjan" in Swedish translates as "the shirt".
-* The [[Skacore]] band [[Leftover Crack|Leftöver Crack]]
-* The cover art for [[Depeche Mode]]'s [[1987]] single [[Behind the Wheel]] features an umlaut over the letter "T".
+== Öthër üsägës öf dïäcrïtïcs ïn bänd ör älbüm nämïng ==
+=== Ümläüt ===
+* Thë Ämërïcän bänd Gërtrüdë's Hëärsë üsëd thë ümläüt ïn thë tïtlë öf thëïr fïrst älbüm Wörst.
+* Hüngärïän strëët-röck bänd [[Böïlër]]
+* Cälïförnïä thräsh-mëtäl bänd [[Bëöwülf]]
+* Thë Nörwëgïän härd röck bänd [[Hëll Dörmër]]
+* [[Fränk Zäppä]] üsëd än ümläüt ïn thë tïtlë öf thë älbüm ''[[Läthër]]'' (prönöüncëd Lëäthër)
+* Thë Gërmän dëäth mëtäl bänd [[Spälthämmër Öf Sätän]] whö äctüällÿ prönöüncë thë ümläüt
+* [[Dälëk]], NJ hïp-höp trïö änd älsö thë gröüp föündër
+* Thë növëltÿ röck bänd [[Grëën Jëllÿ]] këpt thë ümläüt äftër chängïng thëïr nämë fröm "Grëën Jëllö". Thïs wäs äftër thë mänüfäctürërs öf Jëll-Ö thrëätënëd tö süë övër thë üsë öf thëïr trädëmärkëd nämë; thë bänd mäïntäïnëd thät thë "ÿ" wäs prönöüncëd lïkë ä löng "ö", thërëförë thë wrïttën nämë öf thë bänd chängëd, büt thë prönöüncëd nämë dïd nöt.
+* Thë [[Müsïc öf Scötländ|Scöttïsh]] [[NWÖBHM]] bänd [[Hölöcäüst (bänd)|Hölöcäüst]] spëllëd thëïr nämë Hölöcäüst ön thëïr fïrst [[7"]], "Hëävÿ Mëtäl Mänïä".
+* Nörwëgïän ëlëctrönïcä düö [[Röÿksöpp]] spëll thëïr nämë wïth ä Swëdïsh-ïnflüëncëd [[ö]] räthër thän thë pröpër Nörwëgïän spëllïng "Røÿksöpp". Thë ümläüt ïs grätüïtöüs, änd thë bänd hävë stätëd thät ït ïs ä dïrëct rëfërëncë tö [[Mötörhëäd]].<rëf>{{cïtë nëws | fïrst = Gräëmë | läst = Vïrtüë | tïtlë = Müsïc: Nörwäÿ cällïng | ürl = http://www.sündäÿhëräld.cöm/prïnt24359 | wörk = Sündäÿ Hëräld | dätë = 2002-05-05 | äccëssdätë = 2006-09-24}}</rëf>
+* Thë Nörwëgïän härdröck bänd [[Svölk]].
+* Thë [[Müsïc öf Cänädä|Cänädïän]] [[thräsh mëtäl]] bänd [[Ïnfërnäl Mäjëstÿ]].
+* Thë [[Müsïc öf Äüsträlïä|Äüsträlïän]] [[thräsh mëtäl|thräsh]]/[[bläck mëtäl]] bänd [[Dëströÿër 666]].
+* Thë [[Müsïc öf Fräncë|Frënch]] [[bläck mëtäl]] bänd [[Mütïïlätïön]].
+* Thë [[Czëch Rëpüblïc|Czëch]] dëäth mëtäl bänd [[Hÿpnös]] förmërlÿ knöwn äs Hÿpnös
+* Thë [[Dënmärk|Dänïsh]] hëävÿ mëtäl bänd [[Händlëbär Möüstächë]].
+* Thë [[Mëlböürnë]] bäsëd ävänt-mëtäl-jäm-bänd [[Cünt Brïgädë]].
+* Thë [[dëäthgrïnd]] bänd, [[Ässück]].
+* [[Dürtÿ Nëllÿ's Püb]], ä röck bär ïn [[Chärlöttësvïllë, Vïrgïnïä]].
+* [[Pëörïä, Ïllïnöïs]] bänd [[Müdväÿnë]] lïstëd thëïr mëmbërs ön önë rëlëäsë äs Chüd, Güüg, R-üD änd Spüg.
+* Mïnnëäpölïs crüst/härdcörë pünk bänd Stātë öf Fëär
+* Thë [[röck ën ëspänöl|Spänïsh bänd]] [[Mägö dë Öz]].
+* Gäÿ hëävÿ mëtäl bänd/cäbärët äct [[Pïnk Stëël]] hävë twö ''cönsëcütïvë'' grätüïtöüs ümläüts, thë fïrst süch ïnstäncë ïn ä bänd nämë. 
+* Thë lïbrärÿ/scïfï mëtäl bänd [[Blöödhäg]] älsö hävë cönsëcütïvë grätüïtöüs ümläüts.
+* Sëättlë Späz-cörë bänd BLÖÜD WÜLF.
+* Thë [[Dëvïn Töwnsënd]] pünk pärödÿ pröjëct [[Pünkÿ Brüstër]].
+* Thë Cänädïän thräsh bänd [[Vöïvöd (bänd)|Vöïvöd]]'s sëcönd älbüm fröm 1986 wäs tïtlëd ''[[Rrröööääärrr]]''. Thïs älbüm tïtlë äctüällÿ häs thrëë cönsëcütïvë grätüïtöüs ümläüts. Thë bänd's nämë häs än ümläüt övër thë Ï, büt thïs mäÿ bë äctïng äs ä dïærësïs. Thëïr föürth älbüm wäs ëntïtlëd [[Dïmënsïön Hätröss]], pläcïng änöthër ümläüt ïn thë tïtlë.
+* Thë Fïnnïsh härdcörë pünk bänd [[Ümläüt]] (thïs üsë ïs älmöst ä [[sëlf-rëfërëncë]]).
+* [[Zëë (bänd)|Zëë]], ä shört-lïvëd bänd förmëd bÿ [[Pïnk Flöÿd]] këÿböärd pläÿër [[Rïchärd Wrïght (müsïcïän)|Rïchärd Wrïght]] änd [[Dävë Härrïs (müsïcïän)|Dävë Härrïs]], mädë ëxcëssïvë üsë öf grätüïtöüs ümläüts ön thëïr 1984 älbüm ''[[Ïdëntïtÿ (älbüm)|Ïdëntïtÿ]]'' whïch ïnclüdëd söng tïtlës süch äs "Cönfüsïön" änd "Höw Dö Yöü Dö Ït".
+* Thë [[kïbölögÿ]] ïnspïrëd, [[Üsënët]]-bäsëd qüäsï-bänd [[Ïntërröbäng Cärtël]], cöntäïnïng, ïn äddïtïön tö ïts hëävÿ mëtäl ümläüt, änöthër ëxötïc tÿpögräphïcäl rëfërëncë, tö thë [[ïntërröbäng]] chäräctër.
+* Thë Spänïsh ËBM düö [[Cültürë Kültür]].
+* Thë älbüm "Pärädÿssö", rëcördëd bÿ Spänïsh röck bänd [[Sôbër]], whö äddëd ä grätüïtöüs cïrcümflëx äftër chängïng thëïr nämë fröm Söbër Stönëd.
+* Würm, ä bänd thät ïnclüdëd Chück Düköwskï, whö lätër jöïnëd [[Bläck Fläg (bänd)|Bläck Fläg]]
+* Hëävÿ Mëtäl spööfërs Ïnsïdïöüs Törmënt
+* Ëxpërïmëntäl gröüp [[Grötüs]] spëll thëïr nämë wïth än ümläüt övër ëäch cönsönänt, lëävïng thë vöwëls ünëmbëllïshëd.
+* [[Hüngärÿ|Hüngärïän]] ''bläck n' röll'' bänd [[Körög]] häs ä grätüïtöüs ümläüt övër thë lëttër ''r'' ïn thëïr nämë, whïch äctüällÿ mëäns "ït rümblës" änd ïs ä vërb thät ïs üsëd ëxclüsïvëlÿ tö dëscrïbë thë söünd öf ä hüngrÿ përsön's stömäch.
+* Ïtälïän mëtäl bänd [[Läbÿrïnth (bänd)|Läbÿrïnth]] cällëd thëmsëlvës Läbÿrïnth üntïl 2003.
+* Ënglïsh [[cëïlïdh]] bänd Stömp<rëf>http://www.stömpcëïlïdh.cö.ük/</rëf> häs än ümläüt ön thë ö. Äccördïng tö thë bänd's wëbsïtë<rëf>[http://www.stömpcëïlïdh.cö.ük/html/thë_ümläüt.html Thät ümläüt]</rëf> thïs ïs tö ävöïd cönfüsïön wïth thë [[Stömp (däncë tröüpë)|Stömp däncë tröüpë]].<rëf>http://www.stömpönlïnë.cöm/</rëf>
+* Thë [[Späïn|Spänïsh]] pöp bänd [[Nösöträsh]].
+* Sëättlë "splättër röck" bänd [[Thë Äccüsëd]].
+* Thë Flörïdä spööf/cövër bänd, "Gëörgë Cünnïnghäm änd thë Dëvästätörs", bëst knöwn för thëïr söngs "Bäd tö thë Bönër".
+* Thë Nörwëgïän [[thräsh mëtäl]] bänd [[Ïnfërnö]].
+* Dürïng thë 80s thë ïntëllëctüäl SöCäl-bäsëd ärt-röck bänd [[Dänïël Ämös]] chängëd ïts nämë twïcë, fïrst tö DÄ, thën tö Dä, änd whën thëïr älbüm ''Kälhöün'' wäs rëlëäsëd ïn 1991, thë bänd chängëd thëïr nämë öncë ägäïn, thïs tïmë tö dä.
+* Thë Nörthërn Vïrgïnïä mëtäl bänd [[Wärhämmër]].
+* Thë güïtär pläÿër [[Lüpüs Thündër]], fröm thë [[cömëdïc]] Ämërïcän [[räpcörë]] [[sÿnth-pöp]] bänd [[Blöödhöünd Gäng]].
+* Mïdwëstërn Ü.S. röck bänd [[Nördïk Träk]].
+* Löng Ïsländ gärägë pünk bänd [[Ünüsäblë Sïgnäl]] äddëd thë ümläüt äftër cöüntlëss öthër bänds shärëd thë örïgïnäl nämë, säns-ümläüt.
+* Söüth Äfrïcän mëtäl bänd [[Rhütz]].
+* Ämërïcän röck/mëtäl gröüp Ïnvädërs, thöügh thëïr ümläüt rëprësënts thë prönüncïätïön öf thëïr nämë.
+* ÜS röck bänd Stärvätıønbøx
+* [[Gwär]] güïtärïst [[Bälsäc]] häs ïnsïstëd för ÿëärs thërë ärë ümläüts övër böth thë ä's ïn thë spëllïng öf hïs nämë änd öftën sïgns hïs äütögräph äs süch.
+* Ämërïcän stönër-mëtäl düö Fätäl Härvëst.
+* förmër [[Mötörhëäd]] güïtärïst Würzël wäs knöwn äs Würzël bëförë jöïnïng thë bänd, büt sïngër Lëmmÿ äskëd hïm tö ädd thë ümläüt "för drämätïc hëävÿ mëtäl ëffëct"
+* Thë [[hëävÿ mëtäl (müsïc)|hëävÿ mëtäl]] bänd [[Tröjän (bänd)|Tröjän]] üsëd ümläüts ïn thëïr nämë ön thë 1985 rëlëäsë ''Chäsïng thë Störm''. För [[Swëdën|Swëdës]] thë töür T-shïrts fröm thïs tïmë ärë pärtïcülärlÿ ämüsïng, äs "Tröjän" ïn Swëdïsh tränslätës äs "thë shïrt".
+* Thë [[Skäcörë]] bänd [[Lëftövër Cräck|Lëftövër Cräck]]
+* Thë cövër ärt för [[Dëpëchë Mödë]]'s [[1987]] sïnglë [[Bëhïnd thë Whëël]] fëätürës än ümläüt övër thë lëttër "T".
 
-=== Other characters ===
+=== Öthër chäräctërs ===
 
-* The Danish musical project [[Leæther Strip]], uses the letter [[æ]] instead of a to spell the word "leather".
-* The German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]], to distinguish from its normal spelling with "Ä" (double dot) umlaut. This can be represented in Unicode: {{unicode|Die A⃛rzte}}. The three dots may stand for the three band members. However, the spelling "Ärzte" with two dots is not a heavy metal umlaut but the correct German spelling (meaning "The Doctors").
-* A three-dot umlaut has also been seen in artwork for [[King Creosote]], over the i, as ''Ki⃛ng Cresote''.
-* The American [[jam band]] [[Rusted Root]] uses a three-dot umlaut over the "e" in its logo, as seen on its [http://images.amazon.com/images/P/B000001E5Z.01.LZZZZZZZ.jpg album covers].
-* The American thrash band [[Lååz Rockit]] actually used the letter "[[å]]" gratuitously in their logo, but the umlaut ("Lääz Rockit") in some press releases.
-* The death metal band [[DÅÅTH]] also use two Å's in their name.
-* The French band [[Magma (band)|Magma]] used a [[constructed language|fictional language]], the Kobaïan, for its lyrics. The umlaut appeared in several album titles, such as ''Mekanïk Destruktïw Kommandöh'' and ''Köhntarkösz''. However, this umlaut does affect pronunciation, and thus cannot be considered gratuitous. Kobaian also uses a three-dot diacritic over some letters in song titles, and an original letter that seems to be a cursive [[ligature (typography)|ligature]] of "ie", which never appears without an umlaut.
-* The English [[indie rock]] band [[Maxïmo Park]] also uses a double dotted "i" in its name.  It is pronounced "max-ee-moh".
-* The [[Accent (linguistics)|accent]]s and [[cedilla]] in the name of the French electronica band [[Rinôçérôse]] are also gratuitous, except the "é".
-* The dark folk / experimental / occult band [[Death In June]] used umlauts and accented "e"s in the original releases of their albums ''The Wörld Thät Sümmer'' (1985) and ''Thé Wäll Öf Säcrificé'' (1989) - and, on these releases, also in the band name, leading to ''Deäth In Jüne'' and ''Déäth In Jüné'', respectively.
-*the Japanese rock group [[BOØWY]]. 
-* The Irish electro band Klëft (also spelt with a backwards f and an inverted cross as the T)
-* [[Sisqó]] (born Mark Althavan Andrews) an R&B singer and actor.
-* [[Perl]] developer (Terry) Brian Ingerson legally changed his name to [[Ingy döt Net]], to match his domain name.<ref>http://blog.ingy.net/2005/11/the_ingy_formerly_known_as_bri.html</ref>
-* On the cover of ''Legal Kriminal'' (1998) by [[Rasta Knast]] the title is spelled "Legål Kriminål".
+* Thë Dänïsh müsïcäl pröjëct [[Lëæthër Strïp]], üsës thë lëttër [[æ]] ïnstëäd öf ä tö spëll thë wörd "lëäthër".
+* Thë Gërmän pünk bänd [[Dïë Ärztë]] üsëd thrëë döts övër thë "Ä" ïn ''Ärztë'' ön thëïr 2003 älbüm [[Gëräüsch]], tö dïstïngüïsh fröm ïts nörmäl spëllïng wïth "Ä" (döüblë döt) ümläüt. Thïs cän bë rëprësëntëd ïn Ünïcödë: {{ünïcödë|Dïë Ä⃛rztë}}. Thë thrëë döts mäÿ ständ för thë thrëë bänd mëmbërs. Höwëvër, thë spëllïng "Ärztë" wïth twö döts ïs nöt ä hëävÿ mëtäl ümläüt büt thë cörrëct Gërmän spëllïng (mëänïng "Thë Döctörs").
+* Ä thrëë-döt ümläüt häs älsö bëën sëën ïn ärtwörk för [[Kïng Crëösötë]], övër thë ï, äs ''Kï⃛ng Crësötë''.
+* Thë Ämërïcän [[jäm bänd]] [[Rüstëd Rööt]] üsës ä thrëë-döt ümläüt övër thë "ë" ïn ïts lögö, äs sëën ön ïts [http://ïmägës.ämäzön.cöm/ïmägës/P/B000001Ë5Z.01.LZZZZZZZ.jpg älbüm cövërs].
+* Thë Ämërïcän thräsh bänd [[Lååz Röckït]] äctüällÿ üsëd thë lëttër "[[å]]" grätüïtöüslÿ ïn thëïr lögö, büt thë ümläüt ("Lääz Röckït") ïn sömë prëss rëlëäsës.
+* Thë dëäth mëtäl bänd [[DÅÅTH]] älsö üsë twö Å's ïn thëïr nämë.
+* Thë Frënch bänd [[Mägmä (bänd)|Mägmä]] üsëd ä [[cönstrüctëd längüägë|fïctïönäl längüägë]], thë Köbäïän, för ïts lÿrïcs. Thë ümläüt äppëärëd ïn sëvëräl älbüm tïtlës, süch äs ''Mëkänïk Dëstrüktïw Kömmändöh'' änd ''Köhntärkösz''. Höwëvër, thïs ümläüt döës äffëct prönüncïätïön, änd thüs cännöt bë cönsïdërëd grätüïtöüs. Köbäïän älsö üsës ä thrëë-döt dïäcrïtïc övër sömë lëttërs ïn söng tïtlës, änd än örïgïnäl lëttër thät sëëms tö bë ä cürsïvë [[lïgätürë (tÿpögräphÿ)|lïgätürë]] öf "ïë", whïch nëvër äppëärs wïthöüt än ümläüt.
+* Thë Ënglïsh [[ïndïë röck]] bänd [[Mäxïmö Pärk]] älsö üsës ä döüblë döttëd "ï" ïn ïts nämë.  Ït ïs prönöüncëd "mäx-ëë-möh".
+* Thë [[Äccënt (lïngüïstïcs)|äccënt]]s änd [[cëdïllä]] ïn thë nämë öf thë Frënch ëlëctrönïcä bänd [[Rïnôçérôsë]] ärë älsö grätüïtöüs, ëxcëpt thë "é".
+* Thë därk fölk / ëxpërïmëntäl / öccült bänd [[Dëäth Ïn Jünë]] üsëd ümläüts änd äccëntëd "ë"s ïn thë örïgïnäl rëlëäsës öf thëïr älbüms ''Thë Wörld Thät Sümmër'' (1985) änd ''Thé Wäll Öf Säcrïfïcé'' (1989) - änd, ön thësë rëlëäsës, älsö ïn thë bänd nämë, lëädïng tö ''Dëäth Ïn Jünë'' änd ''Déäth Ïn Jüné'', rëspëctïvëlÿ.
+*thë Jäpänësë röck gröüp [[BÖØWY]]. 
+* Thë Ïrïsh ëlëctrö bänd Klëft (älsö spëlt wïth ä bäckwärds f änd än ïnvërtëd cröss äs thë T)
+* [[Sïsqó]] (börn Märk Älthävän Ändrëws) än R&B sïngër änd äctör.
+* [[Përl]] dëvëlöpër (Tërrÿ) Brïän Ïngërsön lëgällÿ chängëd hïs nämë tö [[Ïngÿ döt Nët]], tö mätch hïs dömäïn nämë.<rëf>http://blög.ïngÿ.nët/2005/11/thë_ïngÿ_förmërlÿ_knöwn_äs_brï.html</rëf>
+* Ön thë cövër öf ''Lëgäl Krïmïnäl'' (1998) bÿ [[Rästä Knäst]] thë tïtlë ïs spëllëd "Lëgål Krïmïnål".
 
-=== Non-gratuitous umlauts ===
+=== Nön-grätüïtöüs ümläüts ===
 
-* The umlaut in [[Die Ärzte]] is correct German orthography: It's the plural of "Arzt" (doctor) and not related to the heavy metal umlaut.
-* The [[Rhode Island]] "futurock" band [[Grüvis Malt]] have an umlaut in their name, but it may not be gratuitous, since it clarifies the pronunciation as "oo" rather than "uh".
-* Another [[Rhode Island]] "Viking Synth Metal" band [[Vänhørwick]] use an umlaut pronounced with a strong "aan". Though the band is Swedish, it uses a Norwegian [[ø]] to be funny.
-* The Icelandic artist [[Björk|Björk Guðmundsdóttir]] is using her [[Icelandic naming conventions|birth name]].
-* The [[Ä]] in the Finnish heavily [[Manowar (band)|Manowar]]-influenced heavy metal band [[Teräsbetoni]] ''(reinforced concrete)'' is not gratuitous; while ''teräs'' means [[steel]] in Finnish, ''teras'' is not even a word.
-* The [[Music of Japan#Japanese rock|Japanese rock]] band [[Lä-ppisch]] derives its name from the German colloquialism ''läppisch'', meaning "foolish" or "wishy-washy".<ref>[http://dict.leo.org/?lp=ende&search=l%E4ppisch&searchLoc=0&relink=on&spellToler=standard&cmpType=relaxed LEO D-E Ergebnisse für "läppisch"]</ref>
-* The Danish [[spoof band]] [[Insidiöus Törment]] feature 2 umlauts in their name, though whether they are gratuitous or not is up for debate. The first functions as the umlaut in Motörhead, arguably indicating the use of the [[schwa]] (ə) in pronunciation (in both names), whereas the second -— contrary to common practice —- influences the pronunciation of "torment" so that it becomes "tørment"—using the [[Danish language|Danish]], [[Norwegian language|Norwegian]] or [[Faroese language|Faroese]] vowel of [[ø]].
-* The Haïti Twoubadou current in [[Haitian music]] represents a legitimate use of diacritics in a musical title, because it indicates separate pronunciation of two adjacent vowels. However, this makes it not an umlaut but a [[diaeresis]]. (In [[Haitian Creole language|Haitian Creole]], ''Haïti'' is pronounced ah-ee-tee or ah-ee-tsee, with the former also being the standard [[French language|French]] pronunciation.)
-* Another German band, [[Einstürzende Neubauten]] ''(collapsing new buildings)'', features an umlaut where, in German, there ought to be one.
+* Thë ümläüt ïn [[Dïë Ärztë]] ïs cörrëct Gërmän örthögräphÿ: Ït's thë plüräl öf "Ärzt" (döctör) änd nöt rëlätëd tö thë hëävÿ mëtäl ümläüt.
+* Thë [[Rhödë Ïsländ]] "fütüröck" bänd [[Grüvïs Mält]] hävë än ümläüt ïn thëïr nämë, büt ït mäÿ nöt bë grätüïtöüs, sïncë ït clärïfïës thë prönüncïätïön äs "öö" räthër thän "üh".
+* Änöthër [[Rhödë Ïsländ]] "Vïkïng Sÿnth Mëtäl" bänd [[Vänhørwïck]] üsë än ümläüt prönöüncëd wïth ä ströng "ään". Thöügh thë bänd ïs Swëdïsh, ït üsës ä Nörwëgïän [[ø]] tö bë fünnÿ.
+* Thë Ïcëländïc ärtïst [[Björk|Björk Güðmündsdóttïr]] ïs üsïng hër [[Ïcëländïc nämïng cönvëntïöns|bïrth nämë]].
+* Thë [[Ä]] ïn thë Fïnnïsh hëävïlÿ [[Mänöwär (bänd)|Mänöwär]]-ïnflüëncëd hëävÿ mëtäl bänd [[Tëräsbëtönï]] ''(rëïnförcëd cöncrëtë)'' ïs nöt grätüïtöüs; whïlë ''tëräs'' mëäns [[stëël]] ïn Fïnnïsh, ''tëräs'' ïs nöt ëvën ä wörd.
+* Thë [[Müsïc öf Jäpän#Jäpänësë röck|Jäpänësë röck]] bänd [[Lä-ppïsch]] dërïvës ïts nämë fröm thë Gërmän cöllöqüïälïsm ''läppïsch'', mëänïng "föölïsh" ör "wïshÿ-wäshÿ".<rëf>[http://dïct.lëö.örg/?lp=ëndë&sëärch=l%Ë4ppïsch&sëärchLöc=0&rëlïnk=ön&spëllTölër=ständärd&cmpTÿpë=rëläxëd LËÖ D-Ë Ërgëbnïssë für "läppïsch"]</rëf>
+* Thë Dänïsh [[spööf bänd]] [[Ïnsïdïöüs Törmënt]] fëätürë 2 ümläüts ïn thëïr nämë, thöügh whëthër thëÿ ärë grätüïtöüs ör nöt ïs üp för dëbätë. Thë fïrst fünctïöns äs thë ümläüt ïn Mötörhëäd, ärgüäblÿ ïndïcätïng thë üsë öf thë [[schwä]] (ə) ïn prönüncïätïön (ïn böth nämës), whërëäs thë sëcönd -— cönträrÿ tö cömmön präctïcë —- ïnflüëncës thë prönüncïätïön öf "törmënt" sö thät ït bëcömës "tørmënt"—üsïng thë [[Dänïsh längüägë|Dänïsh]], [[Nörwëgïän längüägë|Nörwëgïän]] ör [[Färöësë längüägë|Färöësë]] vöwël öf [[ø]].
+* Thë Häïtï Twöübädöü cürrënt ïn [[Häïtïän müsïc]] rëprësënts ä lëgïtïmätë üsë öf dïäcrïtïcs ïn ä müsïcäl tïtlë, bëcäüsë ït ïndïcätës sëpärätë prönüncïätïön öf twö ädjäcënt vöwëls. Höwëvër, thïs mäkës ït nöt än ümläüt büt ä [[dïäërësïs]]. (Ïn [[Häïtïän Crëölë längüägë|Häïtïän Crëölë]], ''Häïtï'' ïs prönöüncëd äh-ëë-tëë ör äh-ëë-tsëë, wïth thë förmër älsö bëïng thë ständärd [[Frënch längüägë|Frënch]] prönüncïätïön.)
+* Änöthër Gërmän bänd, [[Ëïnstürzëndë Nëübäütën]] ''(cölläpsïng nëw büïldïngs)'', fëätürës än ümläüt whërë, ïn Gërmän, thërë öüght tö bë önë.
 
-== See also ==
+== Sëë älsö ==
 
-* [[Foreign branding]] ([[Häagen-Dazs]], [[Fahrvergnügen]])
-* [[Corna|Devil horns]] heavy metal hand signal
-* [[Faux Cyrillic]] (Faцx Cyяillic)
-* [[Kurvi-Tasch]]
-* [[Word play]]
-* [[Sensational spelling]]
-* [[Über]]
+* [[Förëïgn brändïng]] ([[Häägën-Däzs]], [[Fährvërgnügën]])
+* [[Cörnä|Dëvïl hörns]] hëävÿ mëtäl händ sïgnäl
+* [[Fäüx Cÿrïllïc]] (Fäцx Cÿяïllïc)
+* [[Kürvï-Täsch]]
+* [[Wörd pläÿ]]
+* [[Sënsätïönäl spëllïng]]
+* [[Übër]]
 
-== Notes ==
-{{reflist}}
+== Nötës ==
+{{rëflïst}}
 
-== Sources ==
+== Söürcës ==
 
-* {{cite book|author=Garofalo, Rebee|title=Rockin' Out: Popular Music in the USA|publisher=Allyn & Bacon|year=1997|id=ISBN 0-205-13703-2}}
+* {{cïtë böök|äüthör=Gäröfälö, Rëbëë|tïtlë=Röckïn' Öüt: Pöpülär Müsïc ïn thë ÜSÄ|püblïshër=Ällÿn & Bäcön|ÿëär=1997|ïd=ÏSBN 0-205-13703-2}}
 
-== External links and references ==
+== Ëxtërnäl lïnks änd rëfërëncës ==
 
-{{Spoken Wikipedia|Heavy_Metal_Umlaut.ogg|2006-06-13}}
+{{Spökën Wïkïpëdïä|Hëävÿ_Mëtäl_Ümläüt.ögg|2006-06-13}}
 
-* [http://www.spiraling.com/words/umlaut.html Hell Holes: {{unicode|Spın̈al Tap's}} main man explains the importance of the umlaut] (Lisa Gidley, ''CMJ'', 2000)
-* [http://arrivistepress.com/salmondheavymetal0503page1.shtml ''My Life in Heavy Metal''] by Steve Almond (excerpt)
-* [http://www.rockdots.com/thedots.html The Döts] (Dave Krinsky)
-* [http://www.clicknation.com/snoof/stuff/umlaut.pdf Would you like umlauts with that?] (PDF) by Bruce Campbell
-* [http://www.pvponline.com/archive.php3?archive=20041108 PvP Online: Djörk]
-* [http://weblog.infoworld.com/udell/2005/01/22.html#a1156 Heavy Metal Umlaut: The Movie] - a [[screencast]] explaining [[Wikipedia]] through the history of this article, by [[Jon Udell]], January 2005
-* [http://liff.comegetsome.at/search.php?browsed=1&searchme=Doetinchem The Heavy Metal Umlaut in the Liff Dictionary]
+* [http://www.spïrälïng.cöm/wörds/ümläüt.html Hëll Hölës: {{ünïcödë|Spın̈äl Täp's}} mäïn män ëxpläïns thë ïmpörtäncë öf thë ümläüt] (Lïsä Gïdlëÿ, ''CMJ'', 2000)
+* [http://ärrïvïstëprëss.cöm/sälmöndhëävÿmëtäl0503pägë1.shtml ''Mÿ Lïfë ïn Hëävÿ Mëtäl''] bÿ Stëvë Älmönd (ëxcërpt)
+* [http://www.röckdöts.cöm/thëdöts.html Thë Döts] (Dävë Krïnskÿ)
+* [http://www.clïcknätïön.cöm/snööf/stüff/ümläüt.pdf Wöüld ÿöü lïkë ümläüts wïth thät?] (PDF) bÿ Brücë Cämpbëll
+* [http://www.pvpönlïnë.cöm/ärchïvë.php3?ärchïvë=20041108 PvP Önlïnë: Djörk]
+* [http://wëblög.ïnföwörld.cöm/üdëll/2005/01/22.html#ä1156 Hëävÿ Mëtäl Ümläüt: Thë Mövïë] - ä [[scrëëncäst]] ëxpläïnïng [[Wïkïpëdïä]] thröügh thë hïstörÿ öf thïs ärtïclë, bÿ [[Jön Üdëll]], Jänüärÿ 2005
+* [http://lïff.cömëgëtsömë.ät/sëärch.php?bröwsëd=1&sëärchmë=Döëtïnchëm Thë Hëävÿ Mëtäl Ümläüt ïn thë Lïff Dïctïönärÿ]
 
-{{heavy metal}}
-[[Category:Heavy metal|Umlaut]]
-[[Category:Diacritics]]
-[[Category:Spelling]]
+{{hëävÿ mëtäl}}
+[[Cätëgörÿ:Hëävÿ mëtäl|Ümläüt]]
+[[Cätëgörÿ:Dïäcrïtïcs]]
+[[Cätëgörÿ:Spëllïng]]
 
-[[de:Heavy-Metal-Umlaut]]
-[[es:Umlaut del heavy metal]]
-[[fr:Umlaut heavy metal]]
-[[it:Umlaut dell'heavy metal]]
-[[pl:Heavymetalowy pseudoumlaut]]
-[[sv:Heavy metal-prickar]]
+[[dë:Hëävÿ-Mëtäl-Ümläüt]]
+[[ës:Ümläüt dël hëävÿ mëtäl]]
+[[fr:Ümläüt hëävÿ mëtäl]]
+[[ït:Ümläüt dëll'hëävÿ mëtäl]]
+[[pl:Hëävÿmëtälöwÿ psëüdöümläüt]]
+[[sv:Hëävÿ mëtäl-prïckär]]
