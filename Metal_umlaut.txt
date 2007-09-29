@@ -77,7 +77,7 @@ The [[Parody|spoof]] band [[Spinal Tap (band)|Spın̈al Tap]] raised the stakes 
 
 * Danish musical project [[Leæther Strip]]
 * German punk band [[Die Ärzte]] used three dots over the "A" in ''Ärzte'' on their 2003 album [[Geräusch]]
-* A three-dot "umlaut" has also been seen in artwork for [[King Creosote]], over the i, as ''Ki⃛ng Cresote''.
+* A three-dot "umlaut" has also been seen in artwork for [[King Creosote]], over the i, as ''{{unicode|Ki⃛ng Cresote}}''.
 * American [[jam band]] [[Rusted Root]] uses a three-dot umlaut over the "e" in its logo, as seen on its album covers<ref>http://images.amazon.com/images/P/B000001E5Z.01.LZZZZZZZ.jpg</ref>.
 * American thrash band [[Lååz Rockit]]
 * Death metal band [[DÅÅTH]]
