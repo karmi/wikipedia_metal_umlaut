@@ -20,22 +20,7 @@ Umlauts, or visually similar [[grapheme]]s, are used in many languages, includin
 [[Turkish language|Turkish]].
 The sounds represented by the umlauted letters in these languages are typically ''[[front vowel]]s'' (front [[Vowel roundedness|rounded vowels]] in the case of ''ü'' and ''ö''). Ironically, these sounds tend to be perceived as "weaker" or "lighter" than the vowels represented by un-umlauted ''u'', ''o'', and ''a'', and thus in the languages which use it normally, the umlaut does not evoke the impression of strength and darkness which its sensational use in English is intended to convey.
 
-The English word ''[[diaeresis]]'' refers to a diacritic graphically similar to the umlaut; the name comes from a Greek word meaning "divide or distinguish". This diacritic is used in languages such as [[Greek language|Greek]], [[French language|French]], [[Spanish language|Spanish]], [[Dutch language|Dutch]], and [[Portuguese language|Brazilian Portuguese]] with varying purposes. Occasionally [[English language|English]] employs a diaeresis to indicate that two [[vowel]]s are to be pronounced separately, as in the name "Chloë" or the word "naïve". Although spellings such as reënact and coöperate have largely fallen into disuse, this use of the [[Umlaut (diacritic)#Diaeresis_or_trema|diaersis mark]], or trema, is current in many prominent English-language publications such as ''[[The New Yorker]]''<ref>{{cite journal
-  | last = Lahr
-  | first = John
-  | title = Demolition Man: Harold Pinter and 'The Homecoming' 
-  | journal = The New Yorker
-  | volume = LXXXIII
-  | issue = 41 
-  | page = 68
-  | date = December 24 & 31, 2007
-  | issn = 0028-792X}}
-"As one of drama's preëminent stylists, Pinter has had the good fortune to ... instruct other theatricals about his idiom...."
-</ref>, and MIT's ''[[Technology Review]]''<ref>{{cite web
-  | title = Technology Review: Terror's Server
-  | url = http://www.technologyreview.com/article/16360/page5/
-  | accessdate = 2008-01-01}}
-</ref>.
+The English word ''[[diaeresis]]'' refers to a diacritic graphically similar to the umlaut; the name comes from a Greek word meaning "divide or distinguish". This diacritic is used in languages such as [[Greek language|Greek]], [[French language|French]], [[Spanish language|Spanish]], [[Dutch language|Dutch]], and [[Portuguese language|Brazilian Portuguese]] with varying purposes. Occasionally [[English language|English]] employs a diaeresis to indicate that two [[vowel]]s are to be pronounced separately, as in the name "Chloë" or the word "naïve". Although spellings such as reënact and coöperate have largely fallen into disuse, this use of the [[Umlaut (diacritic)#Diaeresis_or_trema|diaersis mark]], or trema, is still used in some English-language publications.
 
 == History ==
 
