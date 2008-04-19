@@ -1,4 +1,5 @@
 {{SpecialChars}}
+{{cleanup|date=April 2008}}
 <!--It has been determined that the term "heavy metal umlaut" should not be hyphenated. If a change is necessary, please post it on the article's talk page. Thank you!-->
 <!-- Deleted image removed: [[Image:Motorhead Umlaut.jpg|right|225px|thumb|[[Motörhead]]'s self-titled debut album]] -->
 [[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to the cover of Mot&ouml;rhead's first album for &aelig;sthetic reasons.]]
