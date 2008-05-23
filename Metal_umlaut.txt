@@ -12,6 +12,7 @@ Umlauts, or visually similar [[grapheme]]s, are used in many languages, includin
 [[Brazilian Portuguese language|Brazilian Portuguese]],
 [[Estonian language|Estonian]],
 [[Finnish language|Finnish]],
+[[French language |French]],
 [[German language|German]],
 [[Hungarian language|Hungarian]],
 [[Icelandic language|Icelandic]],
