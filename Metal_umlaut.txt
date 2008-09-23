@@ -2,7 +2,7 @@
 <!-- Deleted image removed: [[Image:Motorhead Umlaut.jpg|right|225px|thumb|[[Motörhead]]'s self-titled debut album]] -->
 [[Image:Motorhead.jpg|thumb|150px|The graphic designer added the umlaut to the cover of Motörhead's first album for aesthetic reasons.]]
 The '''heavy metal umlaut''' is the gratuitous or decorative use of an [[umlaut (diacritic)|umlaut]] over letters in the name of a [[heavy metal music|heavy metal]] band, such as [[Mötley Crüe]] or [[Motörhead]]. The use of umlauts and other [[diacritic]]s with a [[blackletter]] style [[typeface]] is a form of [[foreign branding]] intended to give a band's logo a [[Germanic peoples|Teutonic]] quality. It is a form of marketing that evokes stereotypes of boldness and strength commonly attributed to peoples such as the [[Vikings]]; author Reebee Garofalo has attributed its use to a desire for a "[[Gothic horror]]" feel.<ref>{{cite book|author=Garofalo, Rebee|title=Rockin' Out: Popular Music in the USA|publisher=Allyn & Bacon|year=1997|id=ISBN 0-205-13703-2 |page=292}} "Some groups, for example Blue Öyster Cult and Motörhead, added gratuitous umlauts to their names to conjure up a more generic gothic horror, a practice that continued into the 1980s with Mötley Crüe and others."</ref> The heavy metal umlaut is never referred to by the term ''[[diaeresis]]'' in this usage, nor is it generally intended to affect the pronunciation of the band's name.
-
+b
 Heavy metal umlauts have been parodied in film and fiction. In the [[mockumentary]] film ''[[This Is Spinal Tap|This Is Spı{{Unicode|n̈}}al Tap]]'' (spelled with an umlaut over the ''n''), fictional rocker David St. Hubbins ([[Michael McKean]]) says, "It's like a pair of eyes. You're looking at the umlaut, and it's looking at you." In 2002<!-- we're still not sure what exact issue - FIXME -->, ''[[Spin (magazine)|Spin]]'' magazine referred to the heavy metal umlaut as "the diacritical [[mark of the beast]]."{{Fact|date=January 2008}}
 
 == Umlauts and diaereses ==
@@ -107,6 +107,7 @@ In [[Terry Pratchett]]s [[Discworld]] series, one of the major towns of the [[Ü
 * Swedish multi-instrumentalist [[Dan Swanö]] uses his birth name.
 * [[Faroe Islands|Faroese]] [[Viking metal]] group [[Týr (band)|Týr]]
 * Icelandic [[Post-rock]] group [[Sigur Rós]])
+* Estonian band [[Jäääär]]
 
 == See also ==
 
